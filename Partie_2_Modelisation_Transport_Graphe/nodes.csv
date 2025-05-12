@@ -1,0 +1,552 @@
+﻿Node Type;Name
+Station;Argentine
+Station;Bastille
+Station;Bérault
+Station;Champs-Elysées - Clemenceau
+Station;Charles de Gaulle - Etoile
+Station;Château de Vincennes
+Station;Châtelet
+Station;Concorde
+Station;Esplanade de la Défense
+Station;Franklin D. Roosevelt
+Station;Gare de Lyon
+Station;George V
+Station;Hôtel de Ville
+Station;La Défense (Grande Arche)
+Station;Les Sablons
+Station;Louvre - Rivoli
+Station;Nation
+Station;Palais Royal - Musée du Louvre
+Station;Pont de Neuilly
+Station;Porte Maillot
+Station;Porte de Vincennes
+Station;Reuilly - Diderot
+Station;Saint-Mandé
+Station;Saint-Paul (Le Marais)
+Station;Tuileries
+Station;Alexandre Dumas
+Station;Anvers
+Station;Avron
+Station;Barbès - Rochechouart
+Station;Belleville
+Station;Blanche
+Station;Colonel Fabien
+Station;Courcelles
+Station;Couronnes
+Station;Jaurès
+Station;La Chapelle
+Station;Monceau
+Station;Ménilmontant
+Station;Philippe Auguste
+Station;Pigalle
+Station;Place de Clichy
+Station;Porte Dauphine
+Station;Père Lachaise
+Station;Rome
+Station;Stalingrad
+Station;Ternes
+Station;Victor Hugo
+Station;Villiers
+Station;Anatole France
+Station;Arts et Métiers
+Station;Bourse
+Station;Europe
+Station;Gallieni
+Station;Gambetta
+Station;Havre-Caumartin
+Station;Louise Michel
+Station;Malesherbes
+Station;Opéra
+Station;Parmentier
+Station;Pereire
+Station;Pont de Levallois - Bécon
+Station;Porte de Bagnolet
+Station;Porte de Champerret
+Station;Quatre Septembre
+Station;Rue Saint-Maur
+Station;Réaumur - Sébastopol
+Station;République
+Station;Saint-Lazare
+Station;Sentier
+Station;Temple
+Station;Wagram
+Station;Alésia
+Station;Bagneux - Lucie Aubrac
+Station;Barbara
+Station;Château Rouge
+Station;Château d'Eau
+Station;Cité
+Station;Denfert-Rochereau
+Station;Etienne Marcel
+Station;Gare de l'Est
+Station;Gare du Nord
+Station;Les Halles
+Station;Mairie de Montrouge
+Station;Marcadet - Poissonniers
+Station;Montparnasse Bienvenue
+Station;Mouton-Duvernet
+Station;Odéon
+Station;Porte d'Orléans
+Station;Porte de Clignancourt
+Station;Raspail
+Station;Saint-Germain-des-Prés
+Station;Saint-Michel
+Station;Saint-Placide
+Station;Saint-Sulpice
+Station;Simplon
+Station;Strasbourg - Saint-Denis
+Station;Vavin
+Station;Bobigny Pablo Picasso
+Station;Bobigny-Pantin - Raymond Queneau
+Station;Bréguet-Sabin
+Station;Campo-Formio
+Station;Eglise de Pantin
+Station;Gare d'Austerlitz
+Station;Hoche
+Station;Jacques Bonsergent
+Station;Laumière
+Station;Oberkampf
+Station;Ourcq
+Station;Place d'Italie
+Station;Porte de Pantin
+Station;Quai de la Rapée
+Station;Richard-Lenoir
+Station;Saint-Marcel
+Station;Bel-Air
+Station;Bercy
+Station;Bir-Hakeim
+Station;Boissière
+Station;Cambronne
+Station;Chevaleret
+Station;Corvisart
+Station;Daumesnil
+Station;Dugommier
+Station;Dupleix
+Station;Edgar Quinet
+Station;Glacière
+Station;Kléber
+Station;La Motte-Picquet - Grenelle
+Station;Nationale
+Station;Passy
+Station;Pasteur
+Station;Picpus
+Station;Quai de la Gare
+Station;Saint-Jacques
+Station;Sèvres-Lecourbe
+Station;Trocadéro
+Station;Bolivar
+Station;Botzaris
+Station;Buttes Chaumont
+Station;Cadet
+Station;Censier - Daubenton
+Station;Chaussée d'Antin - La Fayette
+Station;Château Landon
+Station;Corentin Cariou
+Station;Crimée
+Station;Fort d'Aubervilliers
+Station;Jussieu
+Station;La Courneuve - 8 Mai 1945
+Station;Le Kremlin-Bicêtre
+Station;Le Peletier
+Station;Les Gobelins
+Station;Louis Blanc
+Station;Mairie d'Ivry
+Station;Maison Blanche
+Station;Pierre et Marie Curie
+Station;Place Monge
+Station;Poissonnière
+Station;Pont Marie (Cité des Arts)
+Station;Pont Neuf
+Station;Porte d'Italie
+Station;Porte d'Ivry
+Station;Porte de Choisy
+Station;Porte de la Villette
+Station;Pyramides
+Station;Riquet
+Station;Sully - Morland
+Station;Tolbiac
+Station;Villejuif - Louis Aragon
+Station;Villejuif Léo Lagrange
+Station;Villejuif Paul Vaillant-Couturier
+Station;Balard
+Station;Bonne Nouvelle
+Station;Boucicaut
+Station;Charenton - Ecoles
+Station;Chemin Vert
+Station;Commerce
+Station;Créteil - L'Echat
+Station;Créteil - Préfecture
+Station;Créteil - Université
+Station;Ecole Militaire
+Station;Ecole Vétérinaire de Maisons-Alfort
+Station;Faidherbe - Chaligny
+Station;Filles du Calvaire
+Station;Félix Faure
+Station;Grands Boulevards
+Station;Invalides
+Station;La Tour-Maubourg
+Station;Ledru-Rollin
+Station;Liberté
+Station;Lourmel
+Station;Madeleine
+Station;Maisons-Alfort - Les Juilliottes
+Station;Maisons-Alfort - Stade
+Station;Michel Bizot
+Station;Montgallet
+Station;Pointe du Lac
+Station;Porte Dorée
+Station;Porte de Charenton
+Station;Richelieu - Drouot
+Station;Saint-Sébastien - Froissart
+Station;Alma - Marceau
+Station;Billancourt
+Station;Buzenval
+Station;Charonne
+Station;Croix de Chavaux
+Station;Exelmans
+Station;Iéna
+Station;Jasmin
+Station;La Muette
+Station;Mairie de Montreuil
+Station;Maraîchers
+Station;Marcel Sembat
+Station;Michel-Ange - Auteuil
+Station;Michel-Ange - Molitor
+Station;Miromesnil
+Station;Pont de Sèvres
+Station;Porte de Montreuil
+Station;Porte de Saint-Cloud
+Station;Ranelagh
+Station;Robespierre
+Station;Rue de la Pompe
+Station;Rue des Boulets
+Station;Saint-Ambroise
+Station;Saint-Augustin
+Station;Saint-Philippe-du-Roule
+Station;Voltaire
+Station;Avenue Emile Zola
+Station;Boulogne Jean Jaurès
+Station;Boulogne Pont de Saint-Cloud
+Station;Cardinal Lemoine
+Station;Chardon Lagache
+Station;Charles Michels
+Station;Cluny - La Sorbonne
+Station;Duroc
+Station;Eglise d'Auteuil
+Station;Javel - André Citroën
+Station;Mabillon
+Station;Maubert - Mutualité
+Station;Mirabeau
+Station;Porte d'Auteuil
+Station;Sèvres - Babylone
+Station;Ségur
+Station;Vaneau
+Station;Coteaux Beauclair
+Station;Goncourt
+Station;Jourdain
+Station;La Dhuys
+Station;Mairie des Lilas
+Station;Montreuil - Hôpital
+Station;Place des Fêtes
+Station;Porte des Lilas
+Station;Pyrénées
+Station;Rambuteau
+Station;Romainville-Carnot
+Station;Rosny-Bois-Perrier
+Station;Serge Gainsbourg
+Station;Télégraphe
+Station;Abbesses
+Station;Aimé Césaire
+Station;Assemblée Nationale
+Station;Convention
+Station;Corentin Celton
+Station;Falguière
+Station;Front Populaire
+Station;Jules Joffrin
+Station;Lamarck - Caulaincourt
+Station;Mairie d'Aubervilliers
+Station;Mairie d'Issy
+Station;Marx Dormoy
+Station;Notre-Dame des Champs
+Station;Notre-Dame-de-Lorette
+Station;Porte de Versailles
+Station;Porte de la Chapelle
+Station;Rennes
+Station;Rue du Bac
+Station;Saint-Georges
+Station;Solférino
+Station;Trinité - d'Estienne d'Orves
+Station;Vaugirard
+Station;Volontaires
+Station;Asnières - Gennevilliers Les Courtilles
+Station;Basilique de Saint-Denis
+Station;Brochant
+Station;Carrefour Pleyel
+Station;Châtillon-Montrouge
+Station;Gabriel Péri
+Station;Garibaldi
+Station;Gaîté
+Station;Guy Môquet
+Station;La Fourche
+Station;Les Agnettes
+Station;Liège
+Station;Mairie de Clichy
+Station;Mairie de Saint-Ouen
+Station;Malakoff - Plateau de Vanves
+Station;Malakoff - Rue Etienne Dolet
+Station;Pernety
+Station;Plaisance
+Station;Porte de Clichy
+Station;Porte de Saint-Ouen
+Station;Porte de Vanves
+Station;Saint-Denis - Porte de Paris
+Station;Saint-Denis - Université
+Station;Saint-François-Xavier
+Station;Varenne
+Station;Aéroport d'Orly
+Station;Bibliothèque François Mitterrand
+Station;Chevilly-Larue (Marché International)
+Station;Cour Saint-Emilion
+Station;Hôpital Bicêtre
+Station;L'Haÿ-les-Roses
+Station;Olympiades
+Station;Pont Cardinet
+Station;Saint-Denis - Pleyel
+Station;Saint-Ouen
+Station;Thiais - Orly (Pont de Rungis)
+Station;Achères Grand Cormier
+Station;Achères Ville
+Station;Auber
+Station;Boissy-Saint-Léger
+Station;Bry-sur-Marne
+Station;Bussy-Saint-Georges
+Station;Cergy Préfecture
+Station;Cergy Saint-Christophe
+Station;Cergy le Haut
+Station;Champigny
+Station;Chatou - Croissy
+Station;Châtelet les Halles
+Station;Conflans Fin d'Oise
+Station;Fontenay-sous-Bois
+Station;Houilles - Carrières-sur-Seine
+Station;Joinville-le-Pont
+Station;La Défense
+Station;La Varenne - Chennevières
+Station;Le Parc de Saint-Maur
+Station;Le Vésinet - Centre
+Station;Le Vésinet - Le Pecq
+Station;Lognes
+Station;Maisons-Laffitte
+Station;Marne-la-Vallée Chessy
+Station;Nanterre Préfecture
+Station;Nanterre Université
+Station;Nanterre Ville
+Station;Neuilly-Plaisance
+Station;Neuville Université
+Station;Nogent-sur-Marne
+Station;Noisiel
+Station;Noisy - Champs
+Station;Noisy-le-Grand - Mont d'Est
+Station;Poissy
+Station;Rueil-Malmaison
+Station;Saint-Germain-en-Laye
+Station;Saint-Maur - Créteil
+Station;Sartrouville
+Station;Sucy - Bonneuil
+Station;Torcy
+Station;Val d'Europe
+Station;Val de Fontenay
+Station;Vincennes
+Station;Antony
+Station;Arcueil - Cachan
+Station;Aulnay-sous-Bois
+Station;Aéroport CDG 1 (Terminal 3) - RER
+Station;Aéroport Charles de Gaulle 2 (Terminal 2)
+Station;Bagneux
+Station;Bourg-la-Reine
+Station;Bures-sur-Yvette
+Station;Cité Universitaire
+Station;Courcelle-sur-Yvette
+Station;Drancy
+Station;Fontaine Michalon
+Station;Fontenay-aux-Roses
+Station;Gentilly
+Station;Gif-sur-Yvette
+Station;La Courneuve - Aubervilliers
+Station;La Croix de Berny
+Station;La Hacquinière
+Station;La Plaine Stade de France
+Station;Laplace
+Station;Le Blanc-Mesnil
+Station;Le Bourget
+Station;Le Guichet
+Station;Les Baconnets
+Station;Lozère
+Station;Luxembourg
+Station;Massy - Palaiseau
+Station;Massy - Verrières
+Station;Mitry - Claye
+Station;Orsay Ville
+Station;Palaiseau
+Station;Palaiseau - Villebon
+Station;Parc de Sceaux
+Station;Parc des Expositions
+Station;Port Royal
+Station;Robinson
+Station;Saint-Michel Notre-Dame
+Station;Saint-Rémy-lès-Chevreuse
+Station;Sceaux
+Station;Sevran - Livry
+Station;Sevran Beaudottes
+Station;Vert Galant
+Station;Villeparisis - Mitry-le-Neuf
+Station;Villepinte
+Station;Ablon
+Station;Arpajon
+Station;Athis-Mons
+Station;Avenue Foch
+Station;Avenue Henri Martin
+Station;Avenue du Président Kennedy Maison de Radio France
+Station;Bièvres
+Station;Boulainvilliers
+Station;Bouray
+Station;Breuillet - Bruyères-le-Châtel
+Station;Breuillet Village
+Station;Brétigny
+Station;Cernay
+Station;Champ de Mars Tour Eiffel
+Station;Chaville - Vélizy
+Station;Chemin d'Antony
+Station;Choisy-le-Roi
+Station;Dourdan
+Station;Dourdan la Forêt
+Station;Egly
+Station;Epinay-sur-Orge
+Station;Epinay-sur-Seine
+Station;Ermont - Eaubonne
+Station;Etampes
+Station;Etréchy
+Station;Franconville - Le Plessis-Bouchard
+Station;Gare de Chamarande
+Station;Gennevilliers
+Station;Igny
+Station;Issy
+Station;Issy Val de Seine
+Station;Ivry-sur-Seine
+Station;Javel
+Station;Jouy-en-Josas
+Station;Juvisy
+Station;La Norville - Saint-Germain-lès-Arpajon
+Station;Lardy
+Station;Les Ardoines
+Station;Les Grésillons
+Station;Les Saules
+Station;Marolles-en-Hurepoix
+Station;Meudon Val Fleury
+Station;Montigny - Beauchamp
+Station;Musée d'Orsay
+Station;Neuilly Porte Maillot
+Station;Orly Ville
+Station;Petit Jouy Les Loges
+Station;Pierrelaye
+Station;Pont de Rungis Aéroport d'Orly
+Station;Pont de l'Alma
+Station;Pont du Garigliano - Hôpital Européen G. Pompidou
+Station;Pontoise
+Station;Porchefontaine
+Station;Péreire Levallois
+Station;Rungis la Fraternelle
+Station;Saint-Chéron
+Station;Saint-Cyr
+Station;Saint-Gratien
+Station;Saint-Martin d'Etampes
+Station;Saint-Michel-sur-Orge
+Station;Saint-Ouen-l'Aumône
+Station;Saint-Ouen-l'Aumône Liesse
+Station;Saint-Quentin en Yvelines - Montigny-le-Bretonneux
+Station;Sainte-Geneviève-des-Bois
+Station;Savigny-sur-Orge
+Station;Sermaise
+Station;Vauboyen
+Station;Versailles Chantiers
+Station;Versailles Château Rive Gauche
+Station;Villeneuve-le-Roi
+Station;Viroflay Rive Gauche
+Station;Vitry-sur-Seine
+Station;Ballancourt
+Station;Boigneville
+Station;Boissise-le-Roi
+Station;Boussy-Saint-Antoine
+Station;Boutigny
+Station;Brunoy
+Station;Buno - Gironville
+Station;Cesson
+Station;Chantilly - Gouvieux
+Station;Combs-la-Ville - Quincy
+Station;Corbeil-Essonnes
+Station;Creil
+Station;Créteil Pompadour
+Station;Essonnes Robinson
+Station;Evry - Courcouronnes
+Station;Evry - Val de Seine
+Station;Garges - Sarcelles
+Station;Goussainville
+Station;Grand Bourg
+Station;Grigny Centre
+Station;La Borne Blanche
+Station;La Ferté-Alais
+Station;Le Bras de Fer
+Station;Le Coudray-Montceaux
+Station;Le Mée
+Station;Le Plessis Chenet
+Station;Le Vert de Maisons
+Station;Les Noues
+Station;Lieusaint - Moissy
+Station;Louvres
+Station;Maisons-Alfort - Alfortville
+Station;Maisse
+Station;Melun
+Station;Mennecy
+Station;Montgeron - Crosne
+Station;Moulin Galant
+Station;Orangis Bois de l'Epine
+Station;Orry-la-Ville - Coye
+Station;Pierrefitte - Stains
+Station;Ponthierry - Pringy
+Station;Ris-Orangis
+Station;Saint-Denis
+Station;Saint-Fargeau
+Station;Savigny-le-Temple - Nandy
+Station;Stade de France Saint-Denis
+Station;Survilliers - Fosses
+Station;Vigneux-sur-Seine
+Station;Villabé
+Station;Villeneuve Triage
+Station;Villeneuve-Saint-Georges
+Station;Villiers-le-Bel - Gonesse - Arnouville
+Station;Viry-Châtillon
+Station;Vosves
+Station;Yerres
+Station;Bondy
+Station;Chelles - Gournay
+Station;Emerainville - Pontault-Combault
+Station;Gagny
+Station;Gretz-Armainvilliers
+Station;Haussmann Saint-Lazare
+Station;Le Chénay Gagny
+Station;Le Raincy - Villemomble - Montfermeil
+Station;Les Boullereaux Champigny
+Station;Les Yvris Noisy-le-Grand
+Station;Magenta
+Station;Nanterre-La-Folie
+Station;Nogent - Le Perreux
+Station;Noisy-le-Sec
+Station;Ozoir-la-Ferrière
+Station;Pantin
+Station;Roissy-en-Brie
+Station;Rosa Parks
+Station;Rosny Bois Perrier
+Station;Rosny-sous-Bois
+Station;Tournan
+Station;Vaires - Torcy
+Station;Villiers-sur-Marne - Le Plessis-Trévise

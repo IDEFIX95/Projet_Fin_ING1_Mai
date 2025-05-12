@@ -1,0 +1,624 @@
+﻿station1;station2;connected;ligne
+Argentine;Bastille;True;Métro 1
+Bastille;Bérault;True;Métro 1
+Bérault;Champs-Elysées - Clemenceau;True;Métro 1
+Champs-Elysées - Clemenceau;Charles de Gaulle - Etoile;True;Métro 1
+Charles de Gaulle - Etoile;Château de Vincennes;True;Métro 1
+Château de Vincennes;Châtelet;True;Métro 1
+Châtelet;Concorde;True;Métro 1
+Concorde;Esplanade de la Défense;True;Métro 1
+Esplanade de la Défense;Franklin D. Roosevelt;True;Métro 1
+Franklin D. Roosevelt;Gare de Lyon;True;Métro 1
+Gare de Lyon;George V;True;Métro 1
+George V;Hôtel de Ville;True;Métro 1
+Hôtel de Ville;La Défense (Grande Arche);True;Métro 1
+La Défense (Grande Arche);Les Sablons;True;Métro 1
+Les Sablons;Louvre - Rivoli;True;Métro 1
+Louvre - Rivoli;Nation;True;Métro 1
+Nation;Palais Royal - Musée du Louvre;True;Métro 1
+Palais Royal - Musée du Louvre;Pont de Neuilly;True;Métro 1
+Pont de Neuilly;Porte Maillot;True;Métro 1
+Porte Maillot;Porte de Vincennes;True;Métro 1
+Porte de Vincennes;Reuilly - Diderot;True;Métro 1
+Reuilly - Diderot;Saint-Mandé;True;Métro 1
+Saint-Mandé;Saint-Paul (Le Marais);True;Métro 1
+Saint-Paul (Le Marais);Tuileries;True;Métro 1
+Alexandre Dumas;Anvers;True;Métro 2
+Anvers;Avron;True;Métro 2
+Avron;Barbès - Rochechouart;True;Métro 2
+Barbès - Rochechouart;Belleville;True;Métro 2
+Belleville;Blanche;True;Métro 2
+Blanche;Charles de Gaulle - Etoile;True;Métro 2
+Charles de Gaulle - Etoile;Colonel Fabien;True;Métro 2
+Colonel Fabien;Courcelles;True;Métro 2
+Courcelles;Couronnes;True;Métro 2
+Couronnes;Jaurès;True;Métro 2
+Jaurès;La Chapelle;True;Métro 2
+La Chapelle;Monceau;True;Métro 2
+Monceau;Ménilmontant;True;Métro 2
+Ménilmontant;Nation;True;Métro 2
+Nation;Philippe Auguste;True;Métro 2
+Philippe Auguste;Pigalle;True;Métro 2
+Pigalle;Place de Clichy;True;Métro 2
+Place de Clichy;Porte Dauphine;True;Métro 2
+Porte Dauphine;Père Lachaise;True;Métro 2
+Père Lachaise;Rome;True;Métro 2
+Rome;Stalingrad;True;Métro 2
+Stalingrad;Ternes;True;Métro 2
+Ternes;Victor Hugo;True;Métro 2
+Victor Hugo;Villiers;True;Métro 2
+Anatole France;Arts et Métiers;True;Métro 3
+Arts et Métiers;Bourse;True;Métro 3
+Bourse;Europe;True;Métro 3
+Europe;Gallieni;True;Métro 3
+Gallieni;Gambetta;True;Métro 3
+Havre-Caumartin;Louise Michel;True;Métro 3
+Louise Michel;Malesherbes;True;Métro 3
+Malesherbes;Opéra;True;Métro 3
+Opéra;Parmentier;True;Métro 3
+Pereire;Pont de Levallois - Bécon;True;Métro 3
+Pont de Levallois - Bécon;Porte de Bagnolet;True;Métro 3
+Porte de Bagnolet;Porte de Champerret;True;Métro 3
+Père Lachaise;Quatre Septembre;True;Métro 3
+Quatre Septembre;Rue Saint-Maur;True;Métro 3
+Rue Saint-Maur;Réaumur - Sébastopol;True;Métro 3
+Réaumur - Sébastopol;République;True;Métro 3
+Saint-Lazare;Sentier;True;Métro 3
+Sentier;Temple;True;Métro 3
+Temple;Villiers;True;Métro 3
+Villiers;Wagram;True;Métro 3
+Alésia;Bagneux - Lucie Aubrac;True;Métro 4
+Bagneux - Lucie Aubrac;Barbara;True;Métro 4
+Barbara;Barbès - Rochechouart;True;Métro 4
+Barbès - Rochechouart;Château Rouge;True;Métro 4
+Château Rouge;Château d'Eau;True;Métro 4
+Château d'Eau;Châtelet;True;Métro 4
+Châtelet;Cité;True;Métro 4
+Cité;Denfert-Rochereau;True;Métro 4
+Denfert-Rochereau;Etienne Marcel;True;Métro 4
+Etienne Marcel;Gare de l'Est;True;Métro 4
+Gare de l'Est;Gare du Nord;True;Métro 4
+Gare du Nord;Les Halles;True;Métro 4
+Les Halles;Mairie de Montrouge;True;Métro 4
+Mairie de Montrouge;Marcadet - Poissonniers;True;Métro 4
+Marcadet - Poissonniers;Montparnasse Bienvenue;True;Métro 4
+Montparnasse Bienvenue;Mouton-Duvernet;True;Métro 4
+Mouton-Duvernet;Odéon;True;Métro 4
+Odéon;Porte d'Orléans;True;Métro 4
+Porte d'Orléans;Porte de Clignancourt;True;Métro 4
+Porte de Clignancourt;Raspail;True;Métro 4
+Raspail;Réaumur - Sébastopol;True;Métro 4
+Réaumur - Sébastopol;Saint-Germain-des-Prés;True;Métro 4
+Saint-Germain-des-Prés;Saint-Michel;True;Métro 4
+Saint-Michel;Saint-Placide;True;Métro 4
+Saint-Placide;Saint-Sulpice;True;Métro 4
+Saint-Sulpice;Simplon;True;Métro 4
+Simplon;Strasbourg - Saint-Denis;True;Métro 4
+Strasbourg - Saint-Denis;Vavin;True;Métro 4
+Bastille;Bobigny Pablo Picasso;True;Métro 5
+Bobigny Pablo Picasso;Bobigny-Pantin - Raymond Queneau;True;Métro 5
+Bobigny-Pantin - Raymond Queneau;Bréguet-Sabin;True;Métro 5
+Bréguet-Sabin;Campo-Formio;True;Métro 5
+Campo-Formio;Eglise de Pantin;True;Métro 5
+Eglise de Pantin;Gare d'Austerlitz;True;Métro 5
+Gare d'Austerlitz;Gare de l'Est;True;Métro 5
+Gare de l'Est;Gare du Nord;True;Métro 5
+Gare du Nord;Hoche;True;Métro 5
+Hoche;Jacques Bonsergent;True;Métro 5
+Jacques Bonsergent;Jaurès;True;Métro 5
+Jaurès;Laumière;True;Métro 5
+Laumière;Oberkampf;True;Métro 5
+Oberkampf;Ourcq;True;Métro 5
+Ourcq;Place d'Italie;True;Métro 5
+Place d'Italie;Porte de Pantin;True;Métro 5
+Porte de Pantin;Quai de la Rapée;True;Métro 5
+Quai de la Rapée;Richard-Lenoir;True;Métro 5
+Richard-Lenoir;République;True;Métro 5
+République;Saint-Marcel;True;Métro 5
+Saint-Marcel;Stalingrad;True;Métro 5
+Bel-Air;Bercy;True;Métro 6
+Bercy;Bir-Hakeim;True;Métro 6
+Bir-Hakeim;Boissière;True;Métro 6
+Boissière;Cambronne;True;Métro 6
+Cambronne;Charles de Gaulle - Etoile;True;Métro 6
+Charles de Gaulle - Etoile;Chevaleret;True;Métro 6
+Chevaleret;Corvisart;True;Métro 6
+Corvisart;Daumesnil;True;Métro 6
+Daumesnil;Denfert-Rochereau;True;Métro 6
+Denfert-Rochereau;Dugommier;True;Métro 6
+Dugommier;Dupleix;True;Métro 6
+Dupleix;Edgar Quinet;True;Métro 6
+Edgar Quinet;Glacière;True;Métro 6
+Glacière;Kléber;True;Métro 6
+Kléber;La Motte-Picquet - Grenelle;True;Métro 6
+La Motte-Picquet - Grenelle;Montparnasse Bienvenue;True;Métro 6
+Montparnasse Bienvenue;Nation;True;Métro 6
+Nation;Nationale;True;Métro 6
+Nationale;Passy;True;Métro 6
+Passy;Pasteur;True;Métro 6
+Pasteur;Picpus;True;Métro 6
+Picpus;Place d'Italie;True;Métro 6
+Place d'Italie;Quai de la Gare;True;Métro 6
+Quai de la Gare;Raspail;True;Métro 6
+Raspail;Saint-Jacques;True;Métro 6
+Saint-Jacques;Sèvres-Lecourbe;True;Métro 6
+Sèvres-Lecourbe;Trocadéro;True;Métro 6
+Bolivar;Botzaris;True;Métro 7B
+Botzaris;Buttes Chaumont;True;Métro 7B
+Cadet;Censier - Daubenton;True;Métro 7
+Censier - Daubenton;Chaussée d'Antin - La Fayette;True;Métro 7
+Chaussée d'Antin - La Fayette;Château Landon;True;Métro 7
+Château Landon;Châtelet;True;Métro 7
+Châtelet;Corentin Cariou;True;Métro 7
+Corentin Cariou;Crimée;True;Métro 7
+Fort d'Aubervilliers;Gare de l'Est;True;Métro 7
+Jussieu;La Courneuve - 8 Mai 1945;True;Métro 7
+La Courneuve - 8 Mai 1945;Le Kremlin-Bicêtre;True;Métro 7
+Le Kremlin-Bicêtre;Le Peletier;True;Métro 7
+Le Peletier;Les Gobelins;True;Métro 7
+Les Gobelins;Louis Blanc;True;Métro 7
+Mairie d'Ivry;Maison Blanche;True;Métro 7
+Maison Blanche;Opéra;True;Métro 7
+Opéra;Palais Royal - Musée du Louvre;True;Métro 7
+Palais Royal - Musée du Louvre;Pierre et Marie Curie;True;Métro 7
+Pierre et Marie Curie;Place Monge;True;Métro 7
+Place Monge;Place d'Italie;True;Métro 7
+Poissonnière;Pont Marie (Cité des Arts);True;Métro 7
+Pont Marie (Cité des Arts);Pont Neuf;True;Métro 7
+Pont Neuf;Porte d'Italie;True;Métro 7
+Porte d'Italie;Porte d'Ivry;True;Métro 7
+Porte d'Ivry;Porte de Choisy;True;Métro 7
+Porte de Choisy;Porte de la Villette;True;Métro 7
+Pyramides;Riquet;True;Métro 7
+Riquet;Stalingrad;True;Métro 7
+Stalingrad;Sully - Morland;True;Métro 7
+Sully - Morland;Tolbiac;True;Métro 7
+Tolbiac;Villejuif - Louis Aragon;True;Métro 7
+Villejuif - Louis Aragon;Villejuif Léo Lagrange;True;Métro 7
+Villejuif Léo Lagrange;Villejuif Paul Vaillant-Couturier;True;Métro 7
+Balard;Bastille;True;Métro 8
+Bastille;Bonne Nouvelle;True;Métro 8
+Bonne Nouvelle;Boucicaut;True;Métro 8
+Boucicaut;Charenton - Ecoles;True;Métro 8
+Charenton - Ecoles;Chemin Vert;True;Métro 8
+Chemin Vert;Commerce;True;Métro 8
+Commerce;Concorde;True;Métro 8
+Concorde;Créteil - L'Echat;True;Métro 8
+Créteil - L'Echat;Créteil - Préfecture;True;Métro 8
+Créteil - Préfecture;Créteil - Université;True;Métro 8
+Créteil - Université;Daumesnil;True;Métro 8
+Daumesnil;Ecole Militaire;True;Métro 8
+Ecole Militaire;Ecole Vétérinaire de Maisons-Alfort;True;Métro 8
+Ecole Vétérinaire de Maisons-Alfort;Faidherbe - Chaligny;True;Métro 8
+Faidherbe - Chaligny;Filles du Calvaire;True;Métro 8
+Filles du Calvaire;Félix Faure;True;Métro 8
+Félix Faure;Grands Boulevards;True;Métro 8
+Grands Boulevards;Invalides;True;Métro 8
+Invalides;La Motte-Picquet - Grenelle;True;Métro 8
+La Motte-Picquet - Grenelle;La Tour-Maubourg;True;Métro 8
+La Tour-Maubourg;Ledru-Rollin;True;Métro 8
+Ledru-Rollin;Liberté;True;Métro 8
+Liberté;Lourmel;True;Métro 8
+Lourmel;Madeleine;True;Métro 8
+Madeleine;Maisons-Alfort - Les Juilliottes;True;Métro 8
+Maisons-Alfort - Les Juilliottes;Maisons-Alfort - Stade;True;Métro 8
+Maisons-Alfort - Stade;Michel Bizot;True;Métro 8
+Michel Bizot;Montgallet;True;Métro 8
+Montgallet;Opéra;True;Métro 8
+Opéra;Pointe du Lac;True;Métro 8
+Pointe du Lac;Porte Dorée;True;Métro 8
+Porte Dorée;Porte de Charenton;True;Métro 8
+Porte de Charenton;Reuilly - Diderot;True;Métro 8
+Reuilly - Diderot;Richelieu - Drouot;True;Métro 8
+Richelieu - Drouot;République;True;Métro 8
+République;Saint-Sébastien - Froissart;True;Métro 8
+Saint-Sébastien - Froissart;Strasbourg - Saint-Denis;True;Métro 8
+Alma - Marceau;Billancourt;True;Métro 9
+Billancourt;Bonne Nouvelle;True;Métro 9
+Bonne Nouvelle;Buzenval;True;Métro 9
+Buzenval;Charonne;True;Métro 9
+Charonne;Chaussée d'Antin - La Fayette;True;Métro 9
+Chaussée d'Antin - La Fayette;Croix de Chavaux;True;Métro 9
+Croix de Chavaux;Exelmans;True;Métro 9
+Exelmans;Franklin D. Roosevelt;True;Métro 9
+Franklin D. Roosevelt;Grands Boulevards;True;Métro 9
+Grands Boulevards;Havre-Caumartin;True;Métro 9
+Havre-Caumartin;Iéna;True;Métro 9
+Iéna;Jasmin;True;Métro 9
+Jasmin;La Muette;True;Métro 9
+La Muette;Mairie de Montreuil;True;Métro 9
+Mairie de Montreuil;Maraîchers;True;Métro 9
+Maraîchers;Marcel Sembat;True;Métro 9
+Marcel Sembat;Michel-Ange - Auteuil;True;Métro 9
+Michel-Ange - Auteuil;Michel-Ange - Molitor;True;Métro 9
+Michel-Ange - Molitor;Miromesnil;True;Métro 9
+Miromesnil;Nation;True;Métro 9
+Nation;Oberkampf;True;Métro 9
+Oberkampf;Pont de Sèvres;True;Métro 9
+Pont de Sèvres;Porte de Montreuil;True;Métro 9
+Porte de Montreuil;Porte de Saint-Cloud;True;Métro 9
+Porte de Saint-Cloud;Ranelagh;True;Métro 9
+Ranelagh;Richelieu - Drouot;True;Métro 9
+Richelieu - Drouot;Robespierre;True;Métro 9
+Robespierre;Rue de la Pompe;True;Métro 9
+Rue de la Pompe;Rue des Boulets;True;Métro 9
+Rue des Boulets;République;True;Métro 9
+République;Saint-Ambroise;True;Métro 9
+Saint-Ambroise;Saint-Augustin;True;Métro 9
+Saint-Augustin;Saint-Philippe-du-Roule;True;Métro 9
+Saint-Philippe-du-Roule;Strasbourg - Saint-Denis;True;Métro 9
+Strasbourg - Saint-Denis;Trocadéro;True;Métro 9
+Trocadéro;Voltaire;True;Métro 9
+Avenue Emile Zola;Boulogne Jean Jaurès;True;Métro 10
+Boulogne Jean Jaurès;Boulogne Pont de Saint-Cloud;True;Métro 10
+Boulogne Pont de Saint-Cloud;Cardinal Lemoine;True;Métro 10
+Cardinal Lemoine;Chardon Lagache;True;Métro 10
+Chardon Lagache;Charles Michels;True;Métro 10
+Charles Michels;Cluny - La Sorbonne;True;Métro 10
+Cluny - La Sorbonne;Duroc;True;Métro 10
+Duroc;Eglise d'Auteuil;True;Métro 10
+Eglise d'Auteuil;Gare d'Austerlitz;True;Métro 10
+Gare d'Austerlitz;Javel - André Citroën;True;Métro 10
+Javel - André Citroën;Jussieu;True;Métro 10
+Jussieu;La Motte-Picquet - Grenelle;True;Métro 10
+La Motte-Picquet - Grenelle;Mabillon;True;Métro 10
+Mabillon;Maubert - Mutualité;True;Métro 10
+Maubert - Mutualité;Michel-Ange - Auteuil;True;Métro 10
+Michel-Ange - Auteuil;Michel-Ange - Molitor;True;Métro 10
+Michel-Ange - Molitor;Mirabeau;True;Métro 10
+Mirabeau;Odéon;True;Métro 10
+Odéon;Porte d'Auteuil;True;Métro 10
+Porte d'Auteuil;Sèvres - Babylone;True;Métro 10
+Sèvres - Babylone;Ségur;True;Métro 10
+Ségur;Vaneau;True;Métro 10
+Arts et Métiers;Belleville;True;Métro 11
+Belleville;Châtelet;True;Métro 11
+Châtelet;Coteaux Beauclair;True;Métro 11
+Coteaux Beauclair;Goncourt;True;Métro 11
+Goncourt;Hôtel de Ville;True;Métro 11
+Hôtel de Ville;Jourdain;True;Métro 11
+Jourdain;La Dhuys;True;Métro 11
+La Dhuys;Mairie des Lilas;True;Métro 11
+Mairie des Lilas;Montreuil - Hôpital;True;Métro 11
+Montreuil - Hôpital;Place des Fêtes;True;Métro 11
+Place des Fêtes;Porte des Lilas;True;Métro 11
+Porte des Lilas;Pyrénées;True;Métro 11
+Pyrénées;Rambuteau;True;Métro 11
+Rambuteau;Romainville-Carnot;True;Métro 11
+Romainville-Carnot;Rosny-Bois-Perrier;True;Métro 11
+Rosny-Bois-Perrier;République;True;Métro 11
+République;Serge Gainsbourg;True;Métro 11
+Serge Gainsbourg;Télégraphe;True;Métro 11
+Abbesses;Aimé Césaire;True;Métro 12
+Aimé Césaire;Assemblée Nationale;True;Métro 12
+Assemblée Nationale;Concorde;True;Métro 12
+Concorde;Convention;True;Métro 12
+Convention;Corentin Celton;True;Métro 12
+Corentin Celton;Falguière;True;Métro 12
+Falguière;Front Populaire;True;Métro 12
+Front Populaire;Jules Joffrin;True;Métro 12
+Jules Joffrin;Lamarck - Caulaincourt;True;Métro 12
+Lamarck - Caulaincourt;Madeleine;True;Métro 12
+Madeleine;Mairie d'Aubervilliers;True;Métro 12
+Mairie d'Aubervilliers;Mairie d'Issy;True;Métro 12
+Mairie d'Issy;Marcadet - Poissonniers;True;Métro 12
+Marcadet - Poissonniers;Marx Dormoy;True;Métro 12
+Marx Dormoy;Montparnasse Bienvenue;True;Métro 12
+Montparnasse Bienvenue;Notre-Dame des Champs;True;Métro 12
+Notre-Dame des Champs;Notre-Dame-de-Lorette;True;Métro 12
+Notre-Dame-de-Lorette;Pasteur;True;Métro 12
+Pasteur;Pigalle;True;Métro 12
+Pigalle;Porte de Versailles;True;Métro 12
+Porte de Versailles;Porte de la Chapelle;True;Métro 12
+Porte de la Chapelle;Rennes;True;Métro 12
+Rennes;Rue du Bac;True;Métro 12
+Rue du Bac;Saint-Georges;True;Métro 12
+Saint-Georges;Saint-Lazare;True;Métro 12
+Saint-Lazare;Solférino;True;Métro 12
+Solférino;Sèvres - Babylone;True;Métro 12
+Sèvres - Babylone;Trinité - d'Estienne d'Orves;True;Métro 12
+Trinité - d'Estienne d'Orves;Vaugirard;True;Métro 12
+Vaugirard;Volontaires;True;Métro 12
+Asnières - Gennevilliers Les Courtilles;Basilique de Saint-Denis;True;Métro 13
+Basilique de Saint-Denis;Brochant;True;Métro 13
+Brochant;Carrefour Pleyel;True;Métro 13
+Carrefour Pleyel;Champs-Elysées - Clemenceau;True;Métro 13
+Champs-Elysées - Clemenceau;Châtillon-Montrouge;True;Métro 13
+Châtillon-Montrouge;Duroc;True;Métro 13
+Duroc;Gabriel Péri;True;Métro 13
+Gabriel Péri;Garibaldi;True;Métro 13
+Garibaldi;Gaîté;True;Métro 13
+Gaîté;Guy Môquet;True;Métro 13
+Guy Môquet;Invalides;True;Métro 13
+Invalides;La Fourche;True;Métro 13
+La Fourche;Les Agnettes;True;Métro 13
+Les Agnettes;Liège;True;Métro 13
+Liège;Mairie de Clichy;True;Métro 13
+Mairie de Clichy;Mairie de Saint-Ouen;True;Métro 13
+Mairie de Saint-Ouen;Malakoff - Plateau de Vanves;True;Métro 13
+Malakoff - Plateau de Vanves;Malakoff - Rue Etienne Dolet;True;Métro 13
+Malakoff - Rue Etienne Dolet;Miromesnil;True;Métro 13
+Miromesnil;Montparnasse Bienvenue;True;Métro 13
+Montparnasse Bienvenue;Pernety;True;Métro 13
+Pernety;Place de Clichy;True;Métro 13
+Place de Clichy;Plaisance;True;Métro 13
+Plaisance;Porte de Clichy;True;Métro 13
+Porte de Clichy;Porte de Saint-Ouen;True;Métro 13
+Porte de Saint-Ouen;Porte de Vanves;True;Métro 13
+Porte de Vanves;Saint-Denis - Porte de Paris;True;Métro 13
+Saint-Denis - Porte de Paris;Saint-Denis - Université;True;Métro 13
+Saint-Denis - Université;Saint-François-Xavier;True;Métro 13
+Saint-François-Xavier;Saint-Lazare;True;Métro 13
+Saint-Lazare;Varenne;True;Métro 13
+Aéroport d'Orly;Bercy;True;Métro 14
+Bercy;Bibliothèque François Mitterrand;True;Métro 14
+Bibliothèque François Mitterrand;Chevilly-Larue (Marché International);True;Métro 14
+Chevilly-Larue (Marché International);Châtelet;True;Métro 14
+Châtelet;Cour Saint-Emilion;True;Métro 14
+Cour Saint-Emilion;Gare de Lyon;True;Métro 14
+Gare de Lyon;Hôpital Bicêtre;True;Métro 14
+Hôpital Bicêtre;L'Haÿ-les-Roses;True;Métro 14
+L'Haÿ-les-Roses;Madeleine;True;Métro 14
+Madeleine;Mairie de Saint-Ouen;True;Métro 14
+Mairie de Saint-Ouen;Maison Blanche;True;Métro 14
+Maison Blanche;Olympiades;True;Métro 14
+Olympiades;Pont Cardinet;True;Métro 14
+Pont Cardinet;Porte de Clichy;True;Métro 14
+Porte de Clichy;Pyramides;True;Métro 14
+Pyramides;Saint-Denis - Pleyel;True;Métro 14
+Saint-Denis - Pleyel;Saint-Lazare;True;Métro 14
+Saint-Lazare;Saint-Ouen;True;Métro 14
+Saint-Ouen;Thiais - Orly (Pont de Rungis);True;Métro 14
+Achères Grand Cormier;Achères Ville;True;RER A
+Achères Ville;Auber;True;RER A
+Auber;Boissy-Saint-Léger;True;RER A
+Boissy-Saint-Léger;Bry-sur-Marne;True;RER A
+Bry-sur-Marne;Bussy-Saint-Georges;True;RER A
+Bussy-Saint-Georges;Cergy Préfecture;True;RER A
+Cergy Préfecture;Cergy Saint-Christophe;True;RER A
+Cergy Saint-Christophe;Cergy le Haut;True;RER A
+Cergy le Haut;Champigny;True;RER A
+Champigny;Charles de Gaulle - Etoile;True;RER A
+Charles de Gaulle - Etoile;Chatou - Croissy;True;RER A
+Chatou - Croissy;Châtelet les Halles;True;RER A
+Châtelet les Halles;Conflans Fin d'Oise;True;RER A
+Conflans Fin d'Oise;Fontenay-sous-Bois;True;RER A
+Fontenay-sous-Bois;Gare de Lyon;True;RER A
+Gare de Lyon;Houilles - Carrières-sur-Seine;True;RER A
+Houilles - Carrières-sur-Seine;Joinville-le-Pont;True;RER A
+Joinville-le-Pont;La Défense;True;RER A
+La Défense;La Varenne - Chennevières;True;RER A
+La Varenne - Chennevières;Le Parc de Saint-Maur;True;RER A
+Le Parc de Saint-Maur;Le Vésinet - Centre;True;RER A
+Le Vésinet - Centre;Le Vésinet - Le Pecq;True;RER A
+Le Vésinet - Le Pecq;Lognes;True;RER A
+Lognes;Maisons-Laffitte;True;RER A
+Maisons-Laffitte;Marne-la-Vallée Chessy;True;RER A
+Marne-la-Vallée Chessy;Nanterre Préfecture;True;RER A
+Nanterre Préfecture;Nanterre Université;True;RER A
+Nanterre Université;Nanterre Ville;True;RER A
+Nanterre Ville;Nation;True;RER A
+Nation;Neuilly-Plaisance;True;RER A
+Neuilly-Plaisance;Neuville Université;True;RER A
+Neuville Université;Nogent-sur-Marne;True;RER A
+Nogent-sur-Marne;Noisiel;True;RER A
+Noisiel;Noisy - Champs;True;RER A
+Noisy - Champs;Noisy-le-Grand - Mont d'Est;True;RER A
+Noisy-le-Grand - Mont d'Est;Poissy;True;RER A
+Poissy;Rueil-Malmaison;True;RER A
+Rueil-Malmaison;Saint-Germain-en-Laye;True;RER A
+Saint-Germain-en-Laye;Saint-Maur - Créteil;True;RER A
+Saint-Maur - Créteil;Sartrouville;True;RER A
+Sartrouville;Sucy - Bonneuil;True;RER A
+Sucy - Bonneuil;Torcy;True;RER A
+Torcy;Val d'Europe;True;RER A
+Val d'Europe;Val de Fontenay;True;RER A
+Val de Fontenay;Vincennes;True;RER A
+Antony;Arcueil - Cachan;True;RER B
+Arcueil - Cachan;Aulnay-sous-Bois;True;RER B
+Aulnay-sous-Bois;Aéroport CDG 1 (Terminal 3) - RER;True;RER B
+Aéroport CDG 1 (Terminal 3) - RER;Aéroport Charles de Gaulle 2 (Terminal 2);True;RER B
+Aéroport Charles de Gaulle 2 (Terminal 2);Bagneux;True;RER B
+Bagneux;Bourg-la-Reine;True;RER B
+Bourg-la-Reine;Bures-sur-Yvette;True;RER B
+Bures-sur-Yvette;Châtelet les Halles;True;RER B
+Châtelet les Halles;Cité Universitaire;True;RER B
+Cité Universitaire;Courcelle-sur-Yvette;True;RER B
+Courcelle-sur-Yvette;Denfert-Rochereau;True;RER B
+Denfert-Rochereau;Drancy;True;RER B
+Drancy;Fontaine Michalon;True;RER B
+Fontaine Michalon;Fontenay-aux-Roses;True;RER B
+Fontenay-aux-Roses;Gare du Nord;True;RER B
+Gare du Nord;Gentilly;True;RER B
+Gentilly;Gif-sur-Yvette;True;RER B
+Gif-sur-Yvette;La Courneuve - Aubervilliers;True;RER B
+La Courneuve - Aubervilliers;La Croix de Berny;True;RER B
+La Croix de Berny;La Hacquinière;True;RER B
+La Hacquinière;La Plaine Stade de France;True;RER B
+La Plaine Stade de France;Laplace;True;RER B
+Laplace;Le Blanc-Mesnil;True;RER B
+Le Blanc-Mesnil;Le Bourget;True;RER B
+Le Bourget;Le Guichet;True;RER B
+Le Guichet;Les Baconnets;True;RER B
+Les Baconnets;Lozère;True;RER B
+Lozère;Luxembourg;True;RER B
+Luxembourg;Massy - Palaiseau;True;RER B
+Massy - Palaiseau;Massy - Verrières;True;RER B
+Massy - Verrières;Mitry - Claye;True;RER B
+Mitry - Claye;Orsay Ville;True;RER B
+Orsay Ville;Palaiseau;True;RER B
+Palaiseau;Palaiseau - Villebon;True;RER B
+Palaiseau - Villebon;Parc de Sceaux;True;RER B
+Parc de Sceaux;Parc des Expositions;True;RER B
+Parc des Expositions;Port Royal;True;RER B
+Port Royal;Robinson;True;RER B
+Robinson;Saint-Michel Notre-Dame;True;RER B
+Saint-Michel Notre-Dame;Saint-Rémy-lès-Chevreuse;True;RER B
+Saint-Rémy-lès-Chevreuse;Sceaux;True;RER B
+Sceaux;Sevran - Livry;True;RER B
+Sevran - Livry;Sevran Beaudottes;True;RER B
+Sevran Beaudottes;Vert Galant;True;RER B
+Vert Galant;Villeparisis - Mitry-le-Neuf;True;RER B
+Villeparisis - Mitry-le-Neuf;Villepinte;True;RER B
+Ablon;Arpajon;True;RER C
+Arpajon;Athis-Mons;True;RER C
+Athis-Mons;Avenue Foch;True;RER C
+Avenue Foch;Avenue Henri Martin;True;RER C
+Avenue Henri Martin;Avenue du Président Kennedy Maison de Radio France;True;RER C
+Avenue du Président Kennedy Maison de Radio France;Bibliothèque François Mitterrand;True;RER C
+Bibliothèque François Mitterrand;Bièvres;True;RER C
+Bièvres;Boulainvilliers;True;RER C
+Boulainvilliers;Bouray;True;RER C
+Bouray;Breuillet - Bruyères-le-Châtel;True;RER C
+Breuillet - Bruyères-le-Châtel;Breuillet Village;True;RER C
+Breuillet Village;Brétigny;True;RER C
+Brétigny;Cernay;True;RER C
+Cernay;Champ de Mars Tour Eiffel;True;RER C
+Champ de Mars Tour Eiffel;Chaville - Vélizy;True;RER C
+Chaville - Vélizy;Chemin d'Antony;True;RER C
+Chemin d'Antony;Choisy-le-Roi;True;RER C
+Choisy-le-Roi;Dourdan;True;RER C
+Dourdan;Dourdan la Forêt;True;RER C
+Dourdan la Forêt;Egly;True;RER C
+Egly;Epinay-sur-Orge;True;RER C
+Epinay-sur-Orge;Epinay-sur-Seine;True;RER C
+Epinay-sur-Seine;Ermont - Eaubonne;True;RER C
+Ermont - Eaubonne;Etampes;True;RER C
+Etampes;Etréchy;True;RER C
+Etréchy;Franconville - Le Plessis-Bouchard;True;RER C
+Franconville - Le Plessis-Bouchard;Gare d'Austerlitz;True;RER C
+Gare d'Austerlitz;Gare de Chamarande;True;RER C
+Gare de Chamarande;Gennevilliers;True;RER C
+Gennevilliers;Igny;True;RER C
+Igny;Invalides;True;RER C
+Invalides;Issy;True;RER C
+Issy;Issy Val de Seine;True;RER C
+Issy Val de Seine;Ivry-sur-Seine;True;RER C
+Ivry-sur-Seine;Javel;True;RER C
+Javel;Jouy-en-Josas;True;RER C
+Jouy-en-Josas;Juvisy;True;RER C
+Juvisy;La Norville - Saint-Germain-lès-Arpajon;True;RER C
+La Norville - Saint-Germain-lès-Arpajon;Lardy;True;RER C
+Lardy;Les Ardoines;True;RER C
+Les Ardoines;Les Grésillons;True;RER C
+Les Grésillons;Les Saules;True;RER C
+Les Saules;Marolles-en-Hurepoix;True;RER C
+Marolles-en-Hurepoix;Massy - Palaiseau;True;RER C
+Massy - Palaiseau;Massy - Verrières;True;RER C
+Massy - Verrières;Meudon Val Fleury;True;RER C
+Meudon Val Fleury;Montigny - Beauchamp;True;RER C
+Montigny - Beauchamp;Musée d'Orsay;True;RER C
+Musée d'Orsay;Neuilly Porte Maillot;True;RER C
+Neuilly Porte Maillot;Orly Ville;True;RER C
+Orly Ville;Petit Jouy Les Loges;True;RER C
+Petit Jouy Les Loges;Pierrelaye;True;RER C
+Pierrelaye;Pont de Rungis Aéroport d'Orly;True;RER C
+Pont de Rungis Aéroport d'Orly;Pont de l'Alma;True;RER C
+Pont de l'Alma;Pont du Garigliano - Hôpital Européen G. Pompidou;True;RER C
+Pont du Garigliano - Hôpital Européen G. Pompidou;Pontoise;True;RER C
+Pontoise;Porchefontaine;True;RER C
+Porchefontaine;Porte de Clichy;True;RER C
+Porte de Clichy;Péreire Levallois;True;RER C
+Péreire Levallois;Rungis la Fraternelle;True;RER C
+Rungis la Fraternelle;Saint-Chéron;True;RER C
+Saint-Chéron;Saint-Cyr;True;RER C
+Saint-Cyr;Saint-Gratien;True;RER C
+Saint-Gratien;Saint-Martin d'Etampes;True;RER C
+Saint-Martin d'Etampes;Saint-Michel Notre-Dame;True;RER C
+Saint-Michel Notre-Dame;Saint-Michel-sur-Orge;True;RER C
+Saint-Michel-sur-Orge;Saint-Ouen;True;RER C
+Saint-Ouen;Saint-Ouen-l'Aumône;True;RER C
+Saint-Ouen-l'Aumône;Saint-Ouen-l'Aumône Liesse;True;RER C
+Saint-Ouen-l'Aumône Liesse;Saint-Quentin en Yvelines - Montigny-le-Bretonneux;True;RER C
+Saint-Quentin en Yvelines - Montigny-le-Bretonneux;Sainte-Geneviève-des-Bois;True;RER C
+Sainte-Geneviève-des-Bois;Savigny-sur-Orge;True;RER C
+Savigny-sur-Orge;Sermaise;True;RER C
+Sermaise;Vauboyen;True;RER C
+Vauboyen;Versailles Chantiers;True;RER C
+Versailles Chantiers;Versailles Château Rive Gauche;True;RER C
+Versailles Château Rive Gauche;Villeneuve-le-Roi;True;RER C
+Villeneuve-le-Roi;Viroflay Rive Gauche;True;RER C
+Viroflay Rive Gauche;Vitry-sur-Seine;True;RER C
+Ballancourt;Boigneville;True;RER D
+Boigneville;Boissise-le-Roi;True;RER D
+Boissise-le-Roi;Boussy-Saint-Antoine;True;RER D
+Boussy-Saint-Antoine;Boutigny;True;RER D
+Boutigny;Brunoy;True;RER D
+Brunoy;Buno - Gironville;True;RER D
+Buno - Gironville;Cesson;True;RER D
+Cesson;Chantilly - Gouvieux;True;RER D
+Chantilly - Gouvieux;Châtelet les Halles;True;RER D
+Châtelet les Halles;Combs-la-Ville - Quincy;True;RER D
+Combs-la-Ville - Quincy;Corbeil-Essonnes;True;RER D
+Corbeil-Essonnes;Creil;True;RER D
+Creil;Créteil Pompadour;True;RER D
+Créteil Pompadour;Essonnes Robinson;True;RER D
+Essonnes Robinson;Evry - Courcouronnes;True;RER D
+Evry - Courcouronnes;Evry - Val de Seine;True;RER D
+Evry - Val de Seine;Gare de Lyon;True;RER D
+Gare de Lyon;Gare du Nord;True;RER D
+Gare du Nord;Garges - Sarcelles;True;RER D
+Garges - Sarcelles;Goussainville;True;RER D
+Goussainville;Grand Bourg;True;RER D
+Grand Bourg;Grigny Centre;True;RER D
+Grigny Centre;Juvisy;True;RER D
+Juvisy;La Borne Blanche;True;RER D
+La Borne Blanche;La Ferté-Alais;True;RER D
+La Ferté-Alais;Le Bras de Fer;True;RER D
+Le Bras de Fer;Le Coudray-Montceaux;True;RER D
+Le Coudray-Montceaux;Le Mée;True;RER D
+Le Mée;Le Plessis Chenet;True;RER D
+Le Plessis Chenet;Le Vert de Maisons;True;RER D
+Le Vert de Maisons;Les Noues;True;RER D
+Les Noues;Lieusaint - Moissy;True;RER D
+Lieusaint - Moissy;Louvres;True;RER D
+Louvres;Maisons-Alfort - Alfortville;True;RER D
+Maisons-Alfort - Alfortville;Maisse;True;RER D
+Maisse;Malesherbes;True;RER D
+Malesherbes;Melun;True;RER D
+Melun;Mennecy;True;RER D
+Mennecy;Montgeron - Crosne;True;RER D
+Montgeron - Crosne;Moulin Galant;True;RER D
+Moulin Galant;Orangis Bois de l'Epine;True;RER D
+Orangis Bois de l'Epine;Orry-la-Ville - Coye;True;RER D
+Orry-la-Ville - Coye;Pierrefitte - Stains;True;RER D
+Pierrefitte - Stains;Ponthierry - Pringy;True;RER D
+Ponthierry - Pringy;Ris-Orangis;True;RER D
+Ris-Orangis;Saint-Denis;True;RER D
+Saint-Denis;Saint-Fargeau;True;RER D
+Saint-Fargeau;Savigny-le-Temple - Nandy;True;RER D
+Savigny-le-Temple - Nandy;Stade de France Saint-Denis;True;RER D
+Stade de France Saint-Denis;Survilliers - Fosses;True;RER D
+Survilliers - Fosses;Vigneux-sur-Seine;True;RER D
+Vigneux-sur-Seine;Villabé;True;RER D
+Villabé;Villeneuve Triage;True;RER D
+Villeneuve Triage;Villeneuve-Saint-Georges;True;RER D
+Villeneuve-Saint-Georges;Villiers-le-Bel - Gonesse - Arnouville;True;RER D
+Villiers-le-Bel - Gonesse - Arnouville;Viry-Châtillon;True;RER D
+Viry-Châtillon;Vosves;True;RER D
+Vosves;Yerres;True;RER D
+Bondy;Chelles - Gournay;True;RER E
+Chelles - Gournay;Emerainville - Pontault-Combault;True;RER E
+Emerainville - Pontault-Combault;Gagny;True;RER E
+Gagny;Gretz-Armainvilliers;True;RER E
+Gretz-Armainvilliers;Haussmann Saint-Lazare;True;RER E
+Haussmann Saint-Lazare;La Défense;True;RER E
+La Défense;Le Chénay Gagny;True;RER E
+Le Chénay Gagny;Le Raincy - Villemomble - Montfermeil;True;RER E
+Le Raincy - Villemomble - Montfermeil;Les Boullereaux Champigny;True;RER E
+Les Boullereaux Champigny;Les Yvris Noisy-le-Grand;True;RER E
+Les Yvris Noisy-le-Grand;Magenta;True;RER E
+Magenta;Nanterre-La-Folie;True;RER E
+Nanterre-La-Folie;Neuilly Porte Maillot;True;RER E
+Neuilly Porte Maillot;Nogent - Le Perreux;True;RER E
+Nogent - Le Perreux;Noisy-le-Sec;True;RER E
+Noisy-le-Sec;Ozoir-la-Ferrière;True;RER E
+Ozoir-la-Ferrière;Pantin;True;RER E
+Pantin;Roissy-en-Brie;True;RER E
+Roissy-en-Brie;Rosa Parks;True;RER E
+Rosa Parks;Rosny Bois Perrier;True;RER E
+Rosny Bois Perrier;Rosny-sous-Bois;True;RER E
+Rosny-sous-Bois;Tournan;True;RER E
+Tournan;Vaires - Torcy;True;RER E
+Vaires - Torcy;Val de Fontenay;True;RER E
+Val de Fontenay;Villiers-sur-Marne - Le Plessis-Trévise;True;RER E

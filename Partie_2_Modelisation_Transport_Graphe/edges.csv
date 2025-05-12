@@ -1,0 +1,624 @@
+﻿From Type;From Name;Edge Type;To Type;To Name;Weight;Label
+Station;Argentine;Métro 1;Station;Bastille;1;Métro 1
+Station;Bastille;Métro 1;Station;Bérault;1;Métro 1
+Station;Bérault;Métro 1;Station;Champs-Elysées - Clemenceau;1;Métro 1
+Station;Champs-Elysées - Clemenceau;Métro 1;Station;Charles de Gaulle - Etoile;1;Métro 1
+Station;Charles de Gaulle - Etoile;Métro 1;Station;Château de Vincennes;1;Métro 1
+Station;Château de Vincennes;Métro 1;Station;Châtelet;1;Métro 1
+Station;Châtelet;Métro 1;Station;Concorde;1;Métro 1
+Station;Concorde;Métro 1;Station;Esplanade de la Défense;1;Métro 1
+Station;Esplanade de la Défense;Métro 1;Station;Franklin D. Roosevelt;1;Métro 1
+Station;Franklin D. Roosevelt;Métro 1;Station;Gare de Lyon;1;Métro 1
+Station;Gare de Lyon;Métro 1;Station;George V;1;Métro 1
+Station;George V;Métro 1;Station;Hôtel de Ville;1;Métro 1
+Station;Hôtel de Ville;Métro 1;Station;La Défense (Grande Arche);1;Métro 1
+Station;La Défense (Grande Arche);Métro 1;Station;Les Sablons;1;Métro 1
+Station;Les Sablons;Métro 1;Station;Louvre - Rivoli;1;Métro 1
+Station;Louvre - Rivoli;Métro 1;Station;Nation;1;Métro 1
+Station;Nation;Métro 1;Station;Palais Royal - Musée du Louvre;1;Métro 1
+Station;Palais Royal - Musée du Louvre;Métro 1;Station;Pont de Neuilly;1;Métro 1
+Station;Pont de Neuilly;Métro 1;Station;Porte Maillot;1;Métro 1
+Station;Porte Maillot;Métro 1;Station;Porte de Vincennes;1;Métro 1
+Station;Porte de Vincennes;Métro 1;Station;Reuilly - Diderot;1;Métro 1
+Station;Reuilly - Diderot;Métro 1;Station;Saint-Mandé;1;Métro 1
+Station;Saint-Mandé;Métro 1;Station;Saint-Paul (Le Marais);1;Métro 1
+Station;Saint-Paul (Le Marais);Métro 1;Station;Tuileries;1;Métro 1
+Station;Alexandre Dumas;Métro 2;Station;Anvers;1;Métro 2
+Station;Anvers;Métro 2;Station;Avron;1;Métro 2
+Station;Avron;Métro 2;Station;Barbès - Rochechouart;1;Métro 2
+Station;Barbès - Rochechouart;Métro 2;Station;Belleville;1;Métro 2
+Station;Belleville;Métro 2;Station;Blanche;1;Métro 2
+Station;Blanche;Métro 2;Station;Charles de Gaulle - Etoile;1;Métro 2
+Station;Charles de Gaulle - Etoile;Métro 2;Station;Colonel Fabien;1;Métro 2
+Station;Colonel Fabien;Métro 2;Station;Courcelles;1;Métro 2
+Station;Courcelles;Métro 2;Station;Couronnes;1;Métro 2
+Station;Couronnes;Métro 2;Station;Jaurès;1;Métro 2
+Station;Jaurès;Métro 2;Station;La Chapelle;1;Métro 2
+Station;La Chapelle;Métro 2;Station;Monceau;1;Métro 2
+Station;Monceau;Métro 2;Station;Ménilmontant;1;Métro 2
+Station;Ménilmontant;Métro 2;Station;Nation;1;Métro 2
+Station;Nation;Métro 2;Station;Philippe Auguste;1;Métro 2
+Station;Philippe Auguste;Métro 2;Station;Pigalle;1;Métro 2
+Station;Pigalle;Métro 2;Station;Place de Clichy;1;Métro 2
+Station;Place de Clichy;Métro 2;Station;Porte Dauphine;1;Métro 2
+Station;Porte Dauphine;Métro 2;Station;Père Lachaise;1;Métro 2
+Station;Père Lachaise;Métro 2;Station;Rome;1;Métro 2
+Station;Rome;Métro 2;Station;Stalingrad;1;Métro 2
+Station;Stalingrad;Métro 2;Station;Ternes;1;Métro 2
+Station;Ternes;Métro 2;Station;Victor Hugo;1;Métro 2
+Station;Victor Hugo;Métro 2;Station;Villiers;1;Métro 2
+Station;Anatole France;Métro 3;Station;Arts et Métiers;1;Métro 3
+Station;Arts et Métiers;Métro 3;Station;Bourse;1;Métro 3
+Station;Bourse;Métro 3;Station;Europe;1;Métro 3
+Station;Europe;Métro 3;Station;Gallieni;1;Métro 3
+Station;Gallieni;Métro 3;Station;Gambetta;1;Métro 3
+Station;Havre-Caumartin;Métro 3;Station;Louise Michel;1;Métro 3
+Station;Louise Michel;Métro 3;Station;Malesherbes;1;Métro 3
+Station;Malesherbes;Métro 3;Station;Opéra;1;Métro 3
+Station;Opéra;Métro 3;Station;Parmentier;1;Métro 3
+Station;Pereire;Métro 3;Station;Pont de Levallois - Bécon;1;Métro 3
+Station;Pont de Levallois - Bécon;Métro 3;Station;Porte de Bagnolet;1;Métro 3
+Station;Porte de Bagnolet;Métro 3;Station;Porte de Champerret;1;Métro 3
+Station;Père Lachaise;Métro 3;Station;Quatre Septembre;1;Métro 3
+Station;Quatre Septembre;Métro 3;Station;Rue Saint-Maur;1;Métro 3
+Station;Rue Saint-Maur;Métro 3;Station;Réaumur - Sébastopol;1;Métro 3
+Station;Réaumur - Sébastopol;Métro 3;Station;République;1;Métro 3
+Station;Saint-Lazare;Métro 3;Station;Sentier;1;Métro 3
+Station;Sentier;Métro 3;Station;Temple;1;Métro 3
+Station;Temple;Métro 3;Station;Villiers;1;Métro 3
+Station;Villiers;Métro 3;Station;Wagram;1;Métro 3
+Station;Alésia;Métro 4;Station;Bagneux - Lucie Aubrac;1;Métro 4
+Station;Bagneux - Lucie Aubrac;Métro 4;Station;Barbara;1;Métro 4
+Station;Barbara;Métro 4;Station;Barbès - Rochechouart;1;Métro 4
+Station;Barbès - Rochechouart;Métro 4;Station;Château Rouge;1;Métro 4
+Station;Château Rouge;Métro 4;Station;Château d'Eau;1;Métro 4
+Station;Château d'Eau;Métro 4;Station;Châtelet;1;Métro 4
+Station;Châtelet;Métro 4;Station;Cité;1;Métro 4
+Station;Cité;Métro 4;Station;Denfert-Rochereau;1;Métro 4
+Station;Denfert-Rochereau;Métro 4;Station;Etienne Marcel;1;Métro 4
+Station;Etienne Marcel;Métro 4;Station;Gare de l'Est;1;Métro 4
+Station;Gare de l'Est;Métro 4;Station;Gare du Nord;1;Métro 4
+Station;Gare du Nord;Métro 4;Station;Les Halles;1;Métro 4
+Station;Les Halles;Métro 4;Station;Mairie de Montrouge;1;Métro 4
+Station;Mairie de Montrouge;Métro 4;Station;Marcadet - Poissonniers;1;Métro 4
+Station;Marcadet - Poissonniers;Métro 4;Station;Montparnasse Bienvenue;1;Métro 4
+Station;Montparnasse Bienvenue;Métro 4;Station;Mouton-Duvernet;1;Métro 4
+Station;Mouton-Duvernet;Métro 4;Station;Odéon;1;Métro 4
+Station;Odéon;Métro 4;Station;Porte d'Orléans;1;Métro 4
+Station;Porte d'Orléans;Métro 4;Station;Porte de Clignancourt;1;Métro 4
+Station;Porte de Clignancourt;Métro 4;Station;Raspail;1;Métro 4
+Station;Raspail;Métro 4;Station;Réaumur - Sébastopol;1;Métro 4
+Station;Réaumur - Sébastopol;Métro 4;Station;Saint-Germain-des-Prés;1;Métro 4
+Station;Saint-Germain-des-Prés;Métro 4;Station;Saint-Michel;1;Métro 4
+Station;Saint-Michel;Métro 4;Station;Saint-Placide;1;Métro 4
+Station;Saint-Placide;Métro 4;Station;Saint-Sulpice;1;Métro 4
+Station;Saint-Sulpice;Métro 4;Station;Simplon;1;Métro 4
+Station;Simplon;Métro 4;Station;Strasbourg - Saint-Denis;1;Métro 4
+Station;Strasbourg - Saint-Denis;Métro 4;Station;Vavin;1;Métro 4
+Station;Bastille;Métro 5;Station;Bobigny Pablo Picasso;1;Métro 5
+Station;Bobigny Pablo Picasso;Métro 5;Station;Bobigny-Pantin - Raymond Queneau;1;Métro 5
+Station;Bobigny-Pantin - Raymond Queneau;Métro 5;Station;Bréguet-Sabin;1;Métro 5
+Station;Bréguet-Sabin;Métro 5;Station;Campo-Formio;1;Métro 5
+Station;Campo-Formio;Métro 5;Station;Eglise de Pantin;1;Métro 5
+Station;Eglise de Pantin;Métro 5;Station;Gare d'Austerlitz;1;Métro 5
+Station;Gare d'Austerlitz;Métro 5;Station;Gare de l'Est;1;Métro 5
+Station;Gare de l'Est;Métro 5;Station;Gare du Nord;1;Métro 5
+Station;Gare du Nord;Métro 5;Station;Hoche;1;Métro 5
+Station;Hoche;Métro 5;Station;Jacques Bonsergent;1;Métro 5
+Station;Jacques Bonsergent;Métro 5;Station;Jaurès;1;Métro 5
+Station;Jaurès;Métro 5;Station;Laumière;1;Métro 5
+Station;Laumière;Métro 5;Station;Oberkampf;1;Métro 5
+Station;Oberkampf;Métro 5;Station;Ourcq;1;Métro 5
+Station;Ourcq;Métro 5;Station;Place d'Italie;1;Métro 5
+Station;Place d'Italie;Métro 5;Station;Porte de Pantin;1;Métro 5
+Station;Porte de Pantin;Métro 5;Station;Quai de la Rapée;1;Métro 5
+Station;Quai de la Rapée;Métro 5;Station;Richard-Lenoir;1;Métro 5
+Station;Richard-Lenoir;Métro 5;Station;République;1;Métro 5
+Station;République;Métro 5;Station;Saint-Marcel;1;Métro 5
+Station;Saint-Marcel;Métro 5;Station;Stalingrad;1;Métro 5
+Station;Bel-Air;Métro 6;Station;Bercy;1;Métro 6
+Station;Bercy;Métro 6;Station;Bir-Hakeim;1;Métro 6
+Station;Bir-Hakeim;Métro 6;Station;Boissière;1;Métro 6
+Station;Boissière;Métro 6;Station;Cambronne;1;Métro 6
+Station;Cambronne;Métro 6;Station;Charles de Gaulle - Etoile;1;Métro 6
+Station;Charles de Gaulle - Etoile;Métro 6;Station;Chevaleret;1;Métro 6
+Station;Chevaleret;Métro 6;Station;Corvisart;1;Métro 6
+Station;Corvisart;Métro 6;Station;Daumesnil;1;Métro 6
+Station;Daumesnil;Métro 6;Station;Denfert-Rochereau;1;Métro 6
+Station;Denfert-Rochereau;Métro 6;Station;Dugommier;1;Métro 6
+Station;Dugommier;Métro 6;Station;Dupleix;1;Métro 6
+Station;Dupleix;Métro 6;Station;Edgar Quinet;1;Métro 6
+Station;Edgar Quinet;Métro 6;Station;Glacière;1;Métro 6
+Station;Glacière;Métro 6;Station;Kléber;1;Métro 6
+Station;Kléber;Métro 6;Station;La Motte-Picquet - Grenelle;1;Métro 6
+Station;La Motte-Picquet - Grenelle;Métro 6;Station;Montparnasse Bienvenue;1;Métro 6
+Station;Montparnasse Bienvenue;Métro 6;Station;Nation;1;Métro 6
+Station;Nation;Métro 6;Station;Nationale;1;Métro 6
+Station;Nationale;Métro 6;Station;Passy;1;Métro 6
+Station;Passy;Métro 6;Station;Pasteur;1;Métro 6
+Station;Pasteur;Métro 6;Station;Picpus;1;Métro 6
+Station;Picpus;Métro 6;Station;Place d'Italie;1;Métro 6
+Station;Place d'Italie;Métro 6;Station;Quai de la Gare;1;Métro 6
+Station;Quai de la Gare;Métro 6;Station;Raspail;1;Métro 6
+Station;Raspail;Métro 6;Station;Saint-Jacques;1;Métro 6
+Station;Saint-Jacques;Métro 6;Station;Sèvres-Lecourbe;1;Métro 6
+Station;Sèvres-Lecourbe;Métro 6;Station;Trocadéro;1;Métro 6
+Station;Bolivar;Métro 7B;Station;Botzaris;1;Métro 7B
+Station;Botzaris;Métro 7B;Station;Buttes Chaumont;1;Métro 7B
+Station;Cadet;Métro 7;Station;Censier - Daubenton;1;Métro 7
+Station;Censier - Daubenton;Métro 7;Station;Chaussée d'Antin - La Fayette;1;Métro 7
+Station;Chaussée d'Antin - La Fayette;Métro 7;Station;Château Landon;1;Métro 7
+Station;Château Landon;Métro 7;Station;Châtelet;1;Métro 7
+Station;Châtelet;Métro 7;Station;Corentin Cariou;1;Métro 7
+Station;Corentin Cariou;Métro 7;Station;Crimée;1;Métro 7
+Station;Fort d'Aubervilliers;Métro 7;Station;Gare de l'Est;1;Métro 7
+Station;Jussieu;Métro 7;Station;La Courneuve - 8 Mai 1945;1;Métro 7
+Station;La Courneuve - 8 Mai 1945;Métro 7;Station;Le Kremlin-Bicêtre;1;Métro 7
+Station;Le Kremlin-Bicêtre;Métro 7;Station;Le Peletier;1;Métro 7
+Station;Le Peletier;Métro 7;Station;Les Gobelins;1;Métro 7
+Station;Les Gobelins;Métro 7;Station;Louis Blanc;1;Métro 7
+Station;Mairie d'Ivry;Métro 7;Station;Maison Blanche;1;Métro 7
+Station;Maison Blanche;Métro 7;Station;Opéra;1;Métro 7
+Station;Opéra;Métro 7;Station;Palais Royal - Musée du Louvre;1;Métro 7
+Station;Palais Royal - Musée du Louvre;Métro 7;Station;Pierre et Marie Curie;1;Métro 7
+Station;Pierre et Marie Curie;Métro 7;Station;Place Monge;1;Métro 7
+Station;Place Monge;Métro 7;Station;Place d'Italie;1;Métro 7
+Station;Poissonnière;Métro 7;Station;Pont Marie (Cité des Arts);1;Métro 7
+Station;Pont Marie (Cité des Arts);Métro 7;Station;Pont Neuf;1;Métro 7
+Station;Pont Neuf;Métro 7;Station;Porte d'Italie;1;Métro 7
+Station;Porte d'Italie;Métro 7;Station;Porte d'Ivry;1;Métro 7
+Station;Porte d'Ivry;Métro 7;Station;Porte de Choisy;1;Métro 7
+Station;Porte de Choisy;Métro 7;Station;Porte de la Villette;1;Métro 7
+Station;Pyramides;Métro 7;Station;Riquet;1;Métro 7
+Station;Riquet;Métro 7;Station;Stalingrad;1;Métro 7
+Station;Stalingrad;Métro 7;Station;Sully - Morland;1;Métro 7
+Station;Sully - Morland;Métro 7;Station;Tolbiac;1;Métro 7
+Station;Tolbiac;Métro 7;Station;Villejuif - Louis Aragon;1;Métro 7
+Station;Villejuif - Louis Aragon;Métro 7;Station;Villejuif Léo Lagrange;1;Métro 7
+Station;Villejuif Léo Lagrange;Métro 7;Station;Villejuif Paul Vaillant-Couturier;1;Métro 7
+Station;Balard;Métro 8;Station;Bastille;1;Métro 8
+Station;Bastille;Métro 8;Station;Bonne Nouvelle;1;Métro 8
+Station;Bonne Nouvelle;Métro 8;Station;Boucicaut;1;Métro 8
+Station;Boucicaut;Métro 8;Station;Charenton - Ecoles;1;Métro 8
+Station;Charenton - Ecoles;Métro 8;Station;Chemin Vert;1;Métro 8
+Station;Chemin Vert;Métro 8;Station;Commerce;1;Métro 8
+Station;Commerce;Métro 8;Station;Concorde;1;Métro 8
+Station;Concorde;Métro 8;Station;Créteil - L'Echat;1;Métro 8
+Station;Créteil - L'Echat;Métro 8;Station;Créteil - Préfecture;1;Métro 8
+Station;Créteil - Préfecture;Métro 8;Station;Créteil - Université;1;Métro 8
+Station;Créteil - Université;Métro 8;Station;Daumesnil;1;Métro 8
+Station;Daumesnil;Métro 8;Station;Ecole Militaire;1;Métro 8
+Station;Ecole Militaire;Métro 8;Station;Ecole Vétérinaire de Maisons-Alfort;1;Métro 8
+Station;Ecole Vétérinaire de Maisons-Alfort;Métro 8;Station;Faidherbe - Chaligny;1;Métro 8
+Station;Faidherbe - Chaligny;Métro 8;Station;Filles du Calvaire;1;Métro 8
+Station;Filles du Calvaire;Métro 8;Station;Félix Faure;1;Métro 8
+Station;Félix Faure;Métro 8;Station;Grands Boulevards;1;Métro 8
+Station;Grands Boulevards;Métro 8;Station;Invalides;1;Métro 8
+Station;Invalides;Métro 8;Station;La Motte-Picquet - Grenelle;1;Métro 8
+Station;La Motte-Picquet - Grenelle;Métro 8;Station;La Tour-Maubourg;1;Métro 8
+Station;La Tour-Maubourg;Métro 8;Station;Ledru-Rollin;1;Métro 8
+Station;Ledru-Rollin;Métro 8;Station;Liberté;1;Métro 8
+Station;Liberté;Métro 8;Station;Lourmel;1;Métro 8
+Station;Lourmel;Métro 8;Station;Madeleine;1;Métro 8
+Station;Madeleine;Métro 8;Station;Maisons-Alfort - Les Juilliottes;1;Métro 8
+Station;Maisons-Alfort - Les Juilliottes;Métro 8;Station;Maisons-Alfort - Stade;1;Métro 8
+Station;Maisons-Alfort - Stade;Métro 8;Station;Michel Bizot;1;Métro 8
+Station;Michel Bizot;Métro 8;Station;Montgallet;1;Métro 8
+Station;Montgallet;Métro 8;Station;Opéra;1;Métro 8
+Station;Opéra;Métro 8;Station;Pointe du Lac;1;Métro 8
+Station;Pointe du Lac;Métro 8;Station;Porte Dorée;1;Métro 8
+Station;Porte Dorée;Métro 8;Station;Porte de Charenton;1;Métro 8
+Station;Porte de Charenton;Métro 8;Station;Reuilly - Diderot;1;Métro 8
+Station;Reuilly - Diderot;Métro 8;Station;Richelieu - Drouot;1;Métro 8
+Station;Richelieu - Drouot;Métro 8;Station;République;1;Métro 8
+Station;République;Métro 8;Station;Saint-Sébastien - Froissart;1;Métro 8
+Station;Saint-Sébastien - Froissart;Métro 8;Station;Strasbourg - Saint-Denis;1;Métro 8
+Station;Alma - Marceau;Métro 9;Station;Billancourt;1;Métro 9
+Station;Billancourt;Métro 9;Station;Bonne Nouvelle;1;Métro 9
+Station;Bonne Nouvelle;Métro 9;Station;Buzenval;1;Métro 9
+Station;Buzenval;Métro 9;Station;Charonne;1;Métro 9
+Station;Charonne;Métro 9;Station;Chaussée d'Antin - La Fayette;1;Métro 9
+Station;Chaussée d'Antin - La Fayette;Métro 9;Station;Croix de Chavaux;1;Métro 9
+Station;Croix de Chavaux;Métro 9;Station;Exelmans;1;Métro 9
+Station;Exelmans;Métro 9;Station;Franklin D. Roosevelt;1;Métro 9
+Station;Franklin D. Roosevelt;Métro 9;Station;Grands Boulevards;1;Métro 9
+Station;Grands Boulevards;Métro 9;Station;Havre-Caumartin;1;Métro 9
+Station;Havre-Caumartin;Métro 9;Station;Iéna;1;Métro 9
+Station;Iéna;Métro 9;Station;Jasmin;1;Métro 9
+Station;Jasmin;Métro 9;Station;La Muette;1;Métro 9
+Station;La Muette;Métro 9;Station;Mairie de Montreuil;1;Métro 9
+Station;Mairie de Montreuil;Métro 9;Station;Maraîchers;1;Métro 9
+Station;Maraîchers;Métro 9;Station;Marcel Sembat;1;Métro 9
+Station;Marcel Sembat;Métro 9;Station;Michel-Ange - Auteuil;1;Métro 9
+Station;Michel-Ange - Auteuil;Métro 9;Station;Michel-Ange - Molitor;1;Métro 9
+Station;Michel-Ange - Molitor;Métro 9;Station;Miromesnil;1;Métro 9
+Station;Miromesnil;Métro 9;Station;Nation;1;Métro 9
+Station;Nation;Métro 9;Station;Oberkampf;1;Métro 9
+Station;Oberkampf;Métro 9;Station;Pont de Sèvres;1;Métro 9
+Station;Pont de Sèvres;Métro 9;Station;Porte de Montreuil;1;Métro 9
+Station;Porte de Montreuil;Métro 9;Station;Porte de Saint-Cloud;1;Métro 9
+Station;Porte de Saint-Cloud;Métro 9;Station;Ranelagh;1;Métro 9
+Station;Ranelagh;Métro 9;Station;Richelieu - Drouot;1;Métro 9
+Station;Richelieu - Drouot;Métro 9;Station;Robespierre;1;Métro 9
+Station;Robespierre;Métro 9;Station;Rue de la Pompe;1;Métro 9
+Station;Rue de la Pompe;Métro 9;Station;Rue des Boulets;1;Métro 9
+Station;Rue des Boulets;Métro 9;Station;République;1;Métro 9
+Station;République;Métro 9;Station;Saint-Ambroise;1;Métro 9
+Station;Saint-Ambroise;Métro 9;Station;Saint-Augustin;1;Métro 9
+Station;Saint-Augustin;Métro 9;Station;Saint-Philippe-du-Roule;1;Métro 9
+Station;Saint-Philippe-du-Roule;Métro 9;Station;Strasbourg - Saint-Denis;1;Métro 9
+Station;Strasbourg - Saint-Denis;Métro 9;Station;Trocadéro;1;Métro 9
+Station;Trocadéro;Métro 9;Station;Voltaire;1;Métro 9
+Station;Avenue Emile Zola;Métro 10;Station;Boulogne Jean Jaurès;1;Métro 10
+Station;Boulogne Jean Jaurès;Métro 10;Station;Boulogne Pont de Saint-Cloud;1;Métro 10
+Station;Boulogne Pont de Saint-Cloud;Métro 10;Station;Cardinal Lemoine;1;Métro 10
+Station;Cardinal Lemoine;Métro 10;Station;Chardon Lagache;1;Métro 10
+Station;Chardon Lagache;Métro 10;Station;Charles Michels;1;Métro 10
+Station;Charles Michels;Métro 10;Station;Cluny - La Sorbonne;1;Métro 10
+Station;Cluny - La Sorbonne;Métro 10;Station;Duroc;1;Métro 10
+Station;Duroc;Métro 10;Station;Eglise d'Auteuil;1;Métro 10
+Station;Eglise d'Auteuil;Métro 10;Station;Gare d'Austerlitz;1;Métro 10
+Station;Gare d'Austerlitz;Métro 10;Station;Javel - André Citroën;1;Métro 10
+Station;Javel - André Citroën;Métro 10;Station;Jussieu;1;Métro 10
+Station;Jussieu;Métro 10;Station;La Motte-Picquet - Grenelle;1;Métro 10
+Station;La Motte-Picquet - Grenelle;Métro 10;Station;Mabillon;1;Métro 10
+Station;Mabillon;Métro 10;Station;Maubert - Mutualité;1;Métro 10
+Station;Maubert - Mutualité;Métro 10;Station;Michel-Ange - Auteuil;1;Métro 10
+Station;Michel-Ange - Auteuil;Métro 10;Station;Michel-Ange - Molitor;1;Métro 10
+Station;Michel-Ange - Molitor;Métro 10;Station;Mirabeau;1;Métro 10
+Station;Mirabeau;Métro 10;Station;Odéon;1;Métro 10
+Station;Odéon;Métro 10;Station;Porte d'Auteuil;1;Métro 10
+Station;Porte d'Auteuil;Métro 10;Station;Sèvres - Babylone;1;Métro 10
+Station;Sèvres - Babylone;Métro 10;Station;Ségur;1;Métro 10
+Station;Ségur;Métro 10;Station;Vaneau;1;Métro 10
+Station;Arts et Métiers;Métro 11;Station;Belleville;1;Métro 11
+Station;Belleville;Métro 11;Station;Châtelet;1;Métro 11
+Station;Châtelet;Métro 11;Station;Coteaux Beauclair;1;Métro 11
+Station;Coteaux Beauclair;Métro 11;Station;Goncourt;1;Métro 11
+Station;Goncourt;Métro 11;Station;Hôtel de Ville;1;Métro 11
+Station;Hôtel de Ville;Métro 11;Station;Jourdain;1;Métro 11
+Station;Jourdain;Métro 11;Station;La Dhuys;1;Métro 11
+Station;La Dhuys;Métro 11;Station;Mairie des Lilas;1;Métro 11
+Station;Mairie des Lilas;Métro 11;Station;Montreuil - Hôpital;1;Métro 11
+Station;Montreuil - Hôpital;Métro 11;Station;Place des Fêtes;1;Métro 11
+Station;Place des Fêtes;Métro 11;Station;Porte des Lilas;1;Métro 11
+Station;Porte des Lilas;Métro 11;Station;Pyrénées;1;Métro 11
+Station;Pyrénées;Métro 11;Station;Rambuteau;1;Métro 11
+Station;Rambuteau;Métro 11;Station;Romainville-Carnot;1;Métro 11
+Station;Romainville-Carnot;Métro 11;Station;Rosny-Bois-Perrier;1;Métro 11
+Station;Rosny-Bois-Perrier;Métro 11;Station;République;1;Métro 11
+Station;République;Métro 11;Station;Serge Gainsbourg;1;Métro 11
+Station;Serge Gainsbourg;Métro 11;Station;Télégraphe;1;Métro 11
+Station;Abbesses;Métro 12;Station;Aimé Césaire;1;Métro 12
+Station;Aimé Césaire;Métro 12;Station;Assemblée Nationale;1;Métro 12
+Station;Assemblée Nationale;Métro 12;Station;Concorde;1;Métro 12
+Station;Concorde;Métro 12;Station;Convention;1;Métro 12
+Station;Convention;Métro 12;Station;Corentin Celton;1;Métro 12
+Station;Corentin Celton;Métro 12;Station;Falguière;1;Métro 12
+Station;Falguière;Métro 12;Station;Front Populaire;1;Métro 12
+Station;Front Populaire;Métro 12;Station;Jules Joffrin;1;Métro 12
+Station;Jules Joffrin;Métro 12;Station;Lamarck - Caulaincourt;1;Métro 12
+Station;Lamarck - Caulaincourt;Métro 12;Station;Madeleine;1;Métro 12
+Station;Madeleine;Métro 12;Station;Mairie d'Aubervilliers;1;Métro 12
+Station;Mairie d'Aubervilliers;Métro 12;Station;Mairie d'Issy;1;Métro 12
+Station;Mairie d'Issy;Métro 12;Station;Marcadet - Poissonniers;1;Métro 12
+Station;Marcadet - Poissonniers;Métro 12;Station;Marx Dormoy;1;Métro 12
+Station;Marx Dormoy;Métro 12;Station;Montparnasse Bienvenue;1;Métro 12
+Station;Montparnasse Bienvenue;Métro 12;Station;Notre-Dame des Champs;1;Métro 12
+Station;Notre-Dame des Champs;Métro 12;Station;Notre-Dame-de-Lorette;1;Métro 12
+Station;Notre-Dame-de-Lorette;Métro 12;Station;Pasteur;1;Métro 12
+Station;Pasteur;Métro 12;Station;Pigalle;1;Métro 12
+Station;Pigalle;Métro 12;Station;Porte de Versailles;1;Métro 12
+Station;Porte de Versailles;Métro 12;Station;Porte de la Chapelle;1;Métro 12
+Station;Porte de la Chapelle;Métro 12;Station;Rennes;1;Métro 12
+Station;Rennes;Métro 12;Station;Rue du Bac;1;Métro 12
+Station;Rue du Bac;Métro 12;Station;Saint-Georges;1;Métro 12
+Station;Saint-Georges;Métro 12;Station;Saint-Lazare;1;Métro 12
+Station;Saint-Lazare;Métro 12;Station;Solférino;1;Métro 12
+Station;Solférino;Métro 12;Station;Sèvres - Babylone;1;Métro 12
+Station;Sèvres - Babylone;Métro 12;Station;Trinité - d'Estienne d'Orves;1;Métro 12
+Station;Trinité - d'Estienne d'Orves;Métro 12;Station;Vaugirard;1;Métro 12
+Station;Vaugirard;Métro 12;Station;Volontaires;1;Métro 12
+Station;Asnières - Gennevilliers Les Courtilles;Métro 13;Station;Basilique de Saint-Denis;1;Métro 13
+Station;Basilique de Saint-Denis;Métro 13;Station;Brochant;1;Métro 13
+Station;Brochant;Métro 13;Station;Carrefour Pleyel;1;Métro 13
+Station;Carrefour Pleyel;Métro 13;Station;Champs-Elysées - Clemenceau;1;Métro 13
+Station;Champs-Elysées - Clemenceau;Métro 13;Station;Châtillon-Montrouge;1;Métro 13
+Station;Châtillon-Montrouge;Métro 13;Station;Duroc;1;Métro 13
+Station;Duroc;Métro 13;Station;Gabriel Péri;1;Métro 13
+Station;Gabriel Péri;Métro 13;Station;Garibaldi;1;Métro 13
+Station;Garibaldi;Métro 13;Station;Gaîté;1;Métro 13
+Station;Gaîté;Métro 13;Station;Guy Môquet;1;Métro 13
+Station;Guy Môquet;Métro 13;Station;Invalides;1;Métro 13
+Station;Invalides;Métro 13;Station;La Fourche;1;Métro 13
+Station;La Fourche;Métro 13;Station;Les Agnettes;1;Métro 13
+Station;Les Agnettes;Métro 13;Station;Liège;1;Métro 13
+Station;Liège;Métro 13;Station;Mairie de Clichy;1;Métro 13
+Station;Mairie de Clichy;Métro 13;Station;Mairie de Saint-Ouen;1;Métro 13
+Station;Mairie de Saint-Ouen;Métro 13;Station;Malakoff - Plateau de Vanves;1;Métro 13
+Station;Malakoff - Plateau de Vanves;Métro 13;Station;Malakoff - Rue Etienne Dolet;1;Métro 13
+Station;Malakoff - Rue Etienne Dolet;Métro 13;Station;Miromesnil;1;Métro 13
+Station;Miromesnil;Métro 13;Station;Montparnasse Bienvenue;1;Métro 13
+Station;Montparnasse Bienvenue;Métro 13;Station;Pernety;1;Métro 13
+Station;Pernety;Métro 13;Station;Place de Clichy;1;Métro 13
+Station;Place de Clichy;Métro 13;Station;Plaisance;1;Métro 13
+Station;Plaisance;Métro 13;Station;Porte de Clichy;1;Métro 13
+Station;Porte de Clichy;Métro 13;Station;Porte de Saint-Ouen;1;Métro 13
+Station;Porte de Saint-Ouen;Métro 13;Station;Porte de Vanves;1;Métro 13
+Station;Porte de Vanves;Métro 13;Station;Saint-Denis - Porte de Paris;1;Métro 13
+Station;Saint-Denis - Porte de Paris;Métro 13;Station;Saint-Denis - Université;1;Métro 13
+Station;Saint-Denis - Université;Métro 13;Station;Saint-François-Xavier;1;Métro 13
+Station;Saint-François-Xavier;Métro 13;Station;Saint-Lazare;1;Métro 13
+Station;Saint-Lazare;Métro 13;Station;Varenne;1;Métro 13
+Station;Aéroport d'Orly;Métro 14;Station;Bercy;1;Métro 14
+Station;Bercy;Métro 14;Station;Bibliothèque François Mitterrand;1;Métro 14
+Station;Bibliothèque François Mitterrand;Métro 14;Station;Chevilly-Larue (Marché International);1;Métro 14
+Station;Chevilly-Larue (Marché International);Métro 14;Station;Châtelet;1;Métro 14
+Station;Châtelet;Métro 14;Station;Cour Saint-Emilion;1;Métro 14
+Station;Cour Saint-Emilion;Métro 14;Station;Gare de Lyon;1;Métro 14
+Station;Gare de Lyon;Métro 14;Station;Hôpital Bicêtre;1;Métro 14
+Station;Hôpital Bicêtre;Métro 14;Station;L'Haÿ-les-Roses;1;Métro 14
+Station;L'Haÿ-les-Roses;Métro 14;Station;Madeleine;1;Métro 14
+Station;Madeleine;Métro 14;Station;Mairie de Saint-Ouen;1;Métro 14
+Station;Mairie de Saint-Ouen;Métro 14;Station;Maison Blanche;1;Métro 14
+Station;Maison Blanche;Métro 14;Station;Olympiades;1;Métro 14
+Station;Olympiades;Métro 14;Station;Pont Cardinet;1;Métro 14
+Station;Pont Cardinet;Métro 14;Station;Porte de Clichy;1;Métro 14
+Station;Porte de Clichy;Métro 14;Station;Pyramides;1;Métro 14
+Station;Pyramides;Métro 14;Station;Saint-Denis - Pleyel;1;Métro 14
+Station;Saint-Denis - Pleyel;Métro 14;Station;Saint-Lazare;1;Métro 14
+Station;Saint-Lazare;Métro 14;Station;Saint-Ouen;1;Métro 14
+Station;Saint-Ouen;Métro 14;Station;Thiais - Orly (Pont de Rungis);1;Métro 14
+Station;Achères Grand Cormier;RER A;Station;Achères Ville;1;RER A
+Station;Achères Ville;RER A;Station;Auber;1;RER A
+Station;Auber;RER A;Station;Boissy-Saint-Léger;1;RER A
+Station;Boissy-Saint-Léger;RER A;Station;Bry-sur-Marne;1;RER A
+Station;Bry-sur-Marne;RER A;Station;Bussy-Saint-Georges;1;RER A
+Station;Bussy-Saint-Georges;RER A;Station;Cergy Préfecture;1;RER A
+Station;Cergy Préfecture;RER A;Station;Cergy Saint-Christophe;1;RER A
+Station;Cergy Saint-Christophe;RER A;Station;Cergy le Haut;1;RER A
+Station;Cergy le Haut;RER A;Station;Champigny;1;RER A
+Station;Champigny;RER A;Station;Charles de Gaulle - Etoile;1;RER A
+Station;Charles de Gaulle - Etoile;RER A;Station;Chatou - Croissy;1;RER A
+Station;Chatou - Croissy;RER A;Station;Châtelet les Halles;1;RER A
+Station;Châtelet les Halles;RER A;Station;Conflans Fin d'Oise;1;RER A
+Station;Conflans Fin d'Oise;RER A;Station;Fontenay-sous-Bois;1;RER A
+Station;Fontenay-sous-Bois;RER A;Station;Gare de Lyon;1;RER A
+Station;Gare de Lyon;RER A;Station;Houilles - Carrières-sur-Seine;1;RER A
+Station;Houilles - Carrières-sur-Seine;RER A;Station;Joinville-le-Pont;1;RER A
+Station;Joinville-le-Pont;RER A;Station;La Défense;1;RER A
+Station;La Défense;RER A;Station;La Varenne - Chennevières;1;RER A
+Station;La Varenne - Chennevières;RER A;Station;Le Parc de Saint-Maur;1;RER A
+Station;Le Parc de Saint-Maur;RER A;Station;Le Vésinet - Centre;1;RER A
+Station;Le Vésinet - Centre;RER A;Station;Le Vésinet - Le Pecq;1;RER A
+Station;Le Vésinet - Le Pecq;RER A;Station;Lognes;1;RER A
+Station;Lognes;RER A;Station;Maisons-Laffitte;1;RER A
+Station;Maisons-Laffitte;RER A;Station;Marne-la-Vallée Chessy;1;RER A
+Station;Marne-la-Vallée Chessy;RER A;Station;Nanterre Préfecture;1;RER A
+Station;Nanterre Préfecture;RER A;Station;Nanterre Université;1;RER A
+Station;Nanterre Université;RER A;Station;Nanterre Ville;1;RER A
+Station;Nanterre Ville;RER A;Station;Nation;1;RER A
+Station;Nation;RER A;Station;Neuilly-Plaisance;1;RER A
+Station;Neuilly-Plaisance;RER A;Station;Neuville Université;1;RER A
+Station;Neuville Université;RER A;Station;Nogent-sur-Marne;1;RER A
+Station;Nogent-sur-Marne;RER A;Station;Noisiel;1;RER A
+Station;Noisiel;RER A;Station;Noisy - Champs;1;RER A
+Station;Noisy - Champs;RER A;Station;Noisy-le-Grand - Mont d'Est;1;RER A
+Station;Noisy-le-Grand - Mont d'Est;RER A;Station;Poissy;1;RER A
+Station;Poissy;RER A;Station;Rueil-Malmaison;1;RER A
+Station;Rueil-Malmaison;RER A;Station;Saint-Germain-en-Laye;1;RER A
+Station;Saint-Germain-en-Laye;RER A;Station;Saint-Maur - Créteil;1;RER A
+Station;Saint-Maur - Créteil;RER A;Station;Sartrouville;1;RER A
+Station;Sartrouville;RER A;Station;Sucy - Bonneuil;1;RER A
+Station;Sucy - Bonneuil;RER A;Station;Torcy;1;RER A
+Station;Torcy;RER A;Station;Val d'Europe;1;RER A
+Station;Val d'Europe;RER A;Station;Val de Fontenay;1;RER A
+Station;Val de Fontenay;RER A;Station;Vincennes;1;RER A
+Station;Antony;RER B;Station;Arcueil - Cachan;1;RER B
+Station;Arcueil - Cachan;RER B;Station;Aulnay-sous-Bois;1;RER B
+Station;Aulnay-sous-Bois;RER B;Station;Aéroport CDG 1 (Terminal 3) - RER;1;RER B
+Station;Aéroport CDG 1 (Terminal 3) - RER;RER B;Station;Aéroport Charles de Gaulle 2 (Terminal 2);1;RER B
+Station;Aéroport Charles de Gaulle 2 (Terminal 2);RER B;Station;Bagneux;1;RER B
+Station;Bagneux;RER B;Station;Bourg-la-Reine;1;RER B
+Station;Bourg-la-Reine;RER B;Station;Bures-sur-Yvette;1;RER B
+Station;Bures-sur-Yvette;RER B;Station;Châtelet les Halles;1;RER B
+Station;Châtelet les Halles;RER B;Station;Cité Universitaire;1;RER B
+Station;Cité Universitaire;RER B;Station;Courcelle-sur-Yvette;1;RER B
+Station;Courcelle-sur-Yvette;RER B;Station;Denfert-Rochereau;1;RER B
+Station;Denfert-Rochereau;RER B;Station;Drancy;1;RER B
+Station;Drancy;RER B;Station;Fontaine Michalon;1;RER B
+Station;Fontaine Michalon;RER B;Station;Fontenay-aux-Roses;1;RER B
+Station;Fontenay-aux-Roses;RER B;Station;Gare du Nord;1;RER B
+Station;Gare du Nord;RER B;Station;Gentilly;1;RER B
+Station;Gentilly;RER B;Station;Gif-sur-Yvette;1;RER B
+Station;Gif-sur-Yvette;RER B;Station;La Courneuve - Aubervilliers;1;RER B
+Station;La Courneuve - Aubervilliers;RER B;Station;La Croix de Berny;1;RER B
+Station;La Croix de Berny;RER B;Station;La Hacquinière;1;RER B
+Station;La Hacquinière;RER B;Station;La Plaine Stade de France;1;RER B
+Station;La Plaine Stade de France;RER B;Station;Laplace;1;RER B
+Station;Laplace;RER B;Station;Le Blanc-Mesnil;1;RER B
+Station;Le Blanc-Mesnil;RER B;Station;Le Bourget;1;RER B
+Station;Le Bourget;RER B;Station;Le Guichet;1;RER B
+Station;Le Guichet;RER B;Station;Les Baconnets;1;RER B
+Station;Les Baconnets;RER B;Station;Lozère;1;RER B
+Station;Lozère;RER B;Station;Luxembourg;1;RER B
+Station;Luxembourg;RER B;Station;Massy - Palaiseau;1;RER B
+Station;Massy - Palaiseau;RER B;Station;Massy - Verrières;1;RER B
+Station;Massy - Verrières;RER B;Station;Mitry - Claye;1;RER B
+Station;Mitry - Claye;RER B;Station;Orsay Ville;1;RER B
+Station;Orsay Ville;RER B;Station;Palaiseau;1;RER B
+Station;Palaiseau;RER B;Station;Palaiseau - Villebon;1;RER B
+Station;Palaiseau - Villebon;RER B;Station;Parc de Sceaux;1;RER B
+Station;Parc de Sceaux;RER B;Station;Parc des Expositions;1;RER B
+Station;Parc des Expositions;RER B;Station;Port Royal;1;RER B
+Station;Port Royal;RER B;Station;Robinson;1;RER B
+Station;Robinson;RER B;Station;Saint-Michel Notre-Dame;1;RER B
+Station;Saint-Michel Notre-Dame;RER B;Station;Saint-Rémy-lès-Chevreuse;1;RER B
+Station;Saint-Rémy-lès-Chevreuse;RER B;Station;Sceaux;1;RER B
+Station;Sceaux;RER B;Station;Sevran - Livry;1;RER B
+Station;Sevran - Livry;RER B;Station;Sevran Beaudottes;1;RER B
+Station;Sevran Beaudottes;RER B;Station;Vert Galant;1;RER B
+Station;Vert Galant;RER B;Station;Villeparisis - Mitry-le-Neuf;1;RER B
+Station;Villeparisis - Mitry-le-Neuf;RER B;Station;Villepinte;1;RER B
+Station;Ablon;RER C;Station;Arpajon;1;RER C
+Station;Arpajon;RER C;Station;Athis-Mons;1;RER C
+Station;Athis-Mons;RER C;Station;Avenue Foch;1;RER C
+Station;Avenue Foch;RER C;Station;Avenue Henri Martin;1;RER C
+Station;Avenue Henri Martin;RER C;Station;Avenue du Président Kennedy Maison de Radio France;1;RER C
+Station;Avenue du Président Kennedy Maison de Radio France;RER C;Station;Bibliothèque François Mitterrand;1;RER C
+Station;Bibliothèque François Mitterrand;RER C;Station;Bièvres;1;RER C
+Station;Bièvres;RER C;Station;Boulainvilliers;1;RER C
+Station;Boulainvilliers;RER C;Station;Bouray;1;RER C
+Station;Bouray;RER C;Station;Breuillet - Bruyères-le-Châtel;1;RER C
+Station;Breuillet - Bruyères-le-Châtel;RER C;Station;Breuillet Village;1;RER C
+Station;Breuillet Village;RER C;Station;Brétigny;1;RER C
+Station;Brétigny;RER C;Station;Cernay;1;RER C
+Station;Cernay;RER C;Station;Champ de Mars Tour Eiffel;1;RER C
+Station;Champ de Mars Tour Eiffel;RER C;Station;Chaville - Vélizy;1;RER C
+Station;Chaville - Vélizy;RER C;Station;Chemin d'Antony;1;RER C
+Station;Chemin d'Antony;RER C;Station;Choisy-le-Roi;1;RER C
+Station;Choisy-le-Roi;RER C;Station;Dourdan;1;RER C
+Station;Dourdan;RER C;Station;Dourdan la Forêt;1;RER C
+Station;Dourdan la Forêt;RER C;Station;Egly;1;RER C
+Station;Egly;RER C;Station;Epinay-sur-Orge;1;RER C
+Station;Epinay-sur-Orge;RER C;Station;Epinay-sur-Seine;1;RER C
+Station;Epinay-sur-Seine;RER C;Station;Ermont - Eaubonne;1;RER C
+Station;Ermont - Eaubonne;RER C;Station;Etampes;1;RER C
+Station;Etampes;RER C;Station;Etréchy;1;RER C
+Station;Etréchy;RER C;Station;Franconville - Le Plessis-Bouchard;1;RER C
+Station;Franconville - Le Plessis-Bouchard;RER C;Station;Gare d'Austerlitz;1;RER C
+Station;Gare d'Austerlitz;RER C;Station;Gare de Chamarande;1;RER C
+Station;Gare de Chamarande;RER C;Station;Gennevilliers;1;RER C
+Station;Gennevilliers;RER C;Station;Igny;1;RER C
+Station;Igny;RER C;Station;Invalides;1;RER C
+Station;Invalides;RER C;Station;Issy;1;RER C
+Station;Issy;RER C;Station;Issy Val de Seine;1;RER C
+Station;Issy Val de Seine;RER C;Station;Ivry-sur-Seine;1;RER C
+Station;Ivry-sur-Seine;RER C;Station;Javel;1;RER C
+Station;Javel;RER C;Station;Jouy-en-Josas;1;RER C
+Station;Jouy-en-Josas;RER C;Station;Juvisy;1;RER C
+Station;Juvisy;RER C;Station;La Norville - Saint-Germain-lès-Arpajon;1;RER C
+Station;La Norville - Saint-Germain-lès-Arpajon;RER C;Station;Lardy;1;RER C
+Station;Lardy;RER C;Station;Les Ardoines;1;RER C
+Station;Les Ardoines;RER C;Station;Les Grésillons;1;RER C
+Station;Les Grésillons;RER C;Station;Les Saules;1;RER C
+Station;Les Saules;RER C;Station;Marolles-en-Hurepoix;1;RER C
+Station;Marolles-en-Hurepoix;RER C;Station;Massy - Palaiseau;1;RER C
+Station;Massy - Palaiseau;RER C;Station;Massy - Verrières;1;RER C
+Station;Massy - Verrières;RER C;Station;Meudon Val Fleury;1;RER C
+Station;Meudon Val Fleury;RER C;Station;Montigny - Beauchamp;1;RER C
+Station;Montigny - Beauchamp;RER C;Station;Musée d'Orsay;1;RER C
+Station;Musée d'Orsay;RER C;Station;Neuilly Porte Maillot;1;RER C
+Station;Neuilly Porte Maillot;RER C;Station;Orly Ville;1;RER C
+Station;Orly Ville;RER C;Station;Petit Jouy Les Loges;1;RER C
+Station;Petit Jouy Les Loges;RER C;Station;Pierrelaye;1;RER C
+Station;Pierrelaye;RER C;Station;Pont de Rungis Aéroport d'Orly;1;RER C
+Station;Pont de Rungis Aéroport d'Orly;RER C;Station;Pont de l'Alma;1;RER C
+Station;Pont de l'Alma;RER C;Station;Pont du Garigliano - Hôpital Européen G. Pompidou;1;RER C
+Station;Pont du Garigliano - Hôpital Européen G. Pompidou;RER C;Station;Pontoise;1;RER C
+Station;Pontoise;RER C;Station;Porchefontaine;1;RER C
+Station;Porchefontaine;RER C;Station;Porte de Clichy;1;RER C
+Station;Porte de Clichy;RER C;Station;Péreire Levallois;1;RER C
+Station;Péreire Levallois;RER C;Station;Rungis la Fraternelle;1;RER C
+Station;Rungis la Fraternelle;RER C;Station;Saint-Chéron;1;RER C
+Station;Saint-Chéron;RER C;Station;Saint-Cyr;1;RER C
+Station;Saint-Cyr;RER C;Station;Saint-Gratien;1;RER C
+Station;Saint-Gratien;RER C;Station;Saint-Martin d'Etampes;1;RER C
+Station;Saint-Martin d'Etampes;RER C;Station;Saint-Michel Notre-Dame;1;RER C
+Station;Saint-Michel Notre-Dame;RER C;Station;Saint-Michel-sur-Orge;1;RER C
+Station;Saint-Michel-sur-Orge;RER C;Station;Saint-Ouen;1;RER C
+Station;Saint-Ouen;RER C;Station;Saint-Ouen-l'Aumône;1;RER C
+Station;Saint-Ouen-l'Aumône;RER C;Station;Saint-Ouen-l'Aumône Liesse;1;RER C
+Station;Saint-Ouen-l'Aumône Liesse;RER C;Station;Saint-Quentin en Yvelines - Montigny-le-Bretonneux;1;RER C
+Station;Saint-Quentin en Yvelines - Montigny-le-Bretonneux;RER C;Station;Sainte-Geneviève-des-Bois;1;RER C
+Station;Sainte-Geneviève-des-Bois;RER C;Station;Savigny-sur-Orge;1;RER C
+Station;Savigny-sur-Orge;RER C;Station;Sermaise;1;RER C
+Station;Sermaise;RER C;Station;Vauboyen;1;RER C
+Station;Vauboyen;RER C;Station;Versailles Chantiers;1;RER C
+Station;Versailles Chantiers;RER C;Station;Versailles Château Rive Gauche;1;RER C
+Station;Versailles Château Rive Gauche;RER C;Station;Villeneuve-le-Roi;1;RER C
+Station;Villeneuve-le-Roi;RER C;Station;Viroflay Rive Gauche;1;RER C
+Station;Viroflay Rive Gauche;RER C;Station;Vitry-sur-Seine;1;RER C
+Station;Ballancourt;RER D;Station;Boigneville;1;RER D
+Station;Boigneville;RER D;Station;Boissise-le-Roi;1;RER D
+Station;Boissise-le-Roi;RER D;Station;Boussy-Saint-Antoine;1;RER D
+Station;Boussy-Saint-Antoine;RER D;Station;Boutigny;1;RER D
+Station;Boutigny;RER D;Station;Brunoy;1;RER D
+Station;Brunoy;RER D;Station;Buno - Gironville;1;RER D
+Station;Buno - Gironville;RER D;Station;Cesson;1;RER D
+Station;Cesson;RER D;Station;Chantilly - Gouvieux;1;RER D
+Station;Chantilly - Gouvieux;RER D;Station;Châtelet les Halles;1;RER D
+Station;Châtelet les Halles;RER D;Station;Combs-la-Ville - Quincy;1;RER D
+Station;Combs-la-Ville - Quincy;RER D;Station;Corbeil-Essonnes;1;RER D
+Station;Corbeil-Essonnes;RER D;Station;Creil;1;RER D
+Station;Creil;RER D;Station;Créteil Pompadour;1;RER D
+Station;Créteil Pompadour;RER D;Station;Essonnes Robinson;1;RER D
+Station;Essonnes Robinson;RER D;Station;Evry - Courcouronnes;1;RER D
+Station;Evry - Courcouronnes;RER D;Station;Evry - Val de Seine;1;RER D
+Station;Evry - Val de Seine;RER D;Station;Gare de Lyon;1;RER D
+Station;Gare de Lyon;RER D;Station;Gare du Nord;1;RER D
+Station;Gare du Nord;RER D;Station;Garges - Sarcelles;1;RER D
+Station;Garges - Sarcelles;RER D;Station;Goussainville;1;RER D
+Station;Goussainville;RER D;Station;Grand Bourg;1;RER D
+Station;Grand Bourg;RER D;Station;Grigny Centre;1;RER D
+Station;Grigny Centre;RER D;Station;Juvisy;1;RER D
+Station;Juvisy;RER D;Station;La Borne Blanche;1;RER D
+Station;La Borne Blanche;RER D;Station;La Ferté-Alais;1;RER D
+Station;La Ferté-Alais;RER D;Station;Le Bras de Fer;1;RER D
+Station;Le Bras de Fer;RER D;Station;Le Coudray-Montceaux;1;RER D
+Station;Le Coudray-Montceaux;RER D;Station;Le Mée;1;RER D
+Station;Le Mée;RER D;Station;Le Plessis Chenet;1;RER D
+Station;Le Plessis Chenet;RER D;Station;Le Vert de Maisons;1;RER D
+Station;Le Vert de Maisons;RER D;Station;Les Noues;1;RER D
+Station;Les Noues;RER D;Station;Lieusaint - Moissy;1;RER D
+Station;Lieusaint - Moissy;RER D;Station;Louvres;1;RER D
+Station;Louvres;RER D;Station;Maisons-Alfort - Alfortville;1;RER D
+Station;Maisons-Alfort - Alfortville;RER D;Station;Maisse;1;RER D
+Station;Maisse;RER D;Station;Malesherbes;1;RER D
+Station;Malesherbes;RER D;Station;Melun;1;RER D
+Station;Melun;RER D;Station;Mennecy;1;RER D
+Station;Mennecy;RER D;Station;Montgeron - Crosne;1;RER D
+Station;Montgeron - Crosne;RER D;Station;Moulin Galant;1;RER D
+Station;Moulin Galant;RER D;Station;Orangis Bois de l'Epine;1;RER D
+Station;Orangis Bois de l'Epine;RER D;Station;Orry-la-Ville - Coye;1;RER D
+Station;Orry-la-Ville - Coye;RER D;Station;Pierrefitte - Stains;1;RER D
+Station;Pierrefitte - Stains;RER D;Station;Ponthierry - Pringy;1;RER D
+Station;Ponthierry - Pringy;RER D;Station;Ris-Orangis;1;RER D
+Station;Ris-Orangis;RER D;Station;Saint-Denis;1;RER D
+Station;Saint-Denis;RER D;Station;Saint-Fargeau;1;RER D
+Station;Saint-Fargeau;RER D;Station;Savigny-le-Temple - Nandy;1;RER D
+Station;Savigny-le-Temple - Nandy;RER D;Station;Stade de France Saint-Denis;1;RER D
+Station;Stade de France Saint-Denis;RER D;Station;Survilliers - Fosses;1;RER D
+Station;Survilliers - Fosses;RER D;Station;Vigneux-sur-Seine;1;RER D
+Station;Vigneux-sur-Seine;RER D;Station;Villabé;1;RER D
+Station;Villabé;RER D;Station;Villeneuve Triage;1;RER D
+Station;Villeneuve Triage;RER D;Station;Villeneuve-Saint-Georges;1;RER D
+Station;Villeneuve-Saint-Georges;RER D;Station;Villiers-le-Bel - Gonesse - Arnouville;1;RER D
+Station;Villiers-le-Bel - Gonesse - Arnouville;RER D;Station;Viry-Châtillon;1;RER D
+Station;Viry-Châtillon;RER D;Station;Vosves;1;RER D
+Station;Vosves;RER D;Station;Yerres;1;RER D
+Station;Bondy;RER E;Station;Chelles - Gournay;1;RER E
+Station;Chelles - Gournay;RER E;Station;Emerainville - Pontault-Combault;1;RER E
+Station;Emerainville - Pontault-Combault;RER E;Station;Gagny;1;RER E
+Station;Gagny;RER E;Station;Gretz-Armainvilliers;1;RER E
+Station;Gretz-Armainvilliers;RER E;Station;Haussmann Saint-Lazare;1;RER E
+Station;Haussmann Saint-Lazare;RER E;Station;La Défense;1;RER E
+Station;La Défense;RER E;Station;Le Chénay Gagny;1;RER E
+Station;Le Chénay Gagny;RER E;Station;Le Raincy - Villemomble - Montfermeil;1;RER E
+Station;Le Raincy - Villemomble - Montfermeil;RER E;Station;Les Boullereaux Champigny;1;RER E
+Station;Les Boullereaux Champigny;RER E;Station;Les Yvris Noisy-le-Grand;1;RER E
+Station;Les Yvris Noisy-le-Grand;RER E;Station;Magenta;1;RER E
+Station;Magenta;RER E;Station;Nanterre-La-Folie;1;RER E
+Station;Nanterre-La-Folie;RER E;Station;Neuilly Porte Maillot;1;RER E
+Station;Neuilly Porte Maillot;RER E;Station;Nogent - Le Perreux;1;RER E
+Station;Nogent - Le Perreux;RER E;Station;Noisy-le-Sec;1;RER E
+Station;Noisy-le-Sec;RER E;Station;Ozoir-la-Ferrière;1;RER E
+Station;Ozoir-la-Ferrière;RER E;Station;Pantin;1;RER E
+Station;Pantin;RER E;Station;Roissy-en-Brie;1;RER E
+Station;Roissy-en-Brie;RER E;Station;Rosa Parks;1;RER E
+Station;Rosa Parks;RER E;Station;Rosny Bois Perrier;1;RER E
+Station;Rosny Bois Perrier;RER E;Station;Rosny-sous-Bois;1;RER E
+Station;Rosny-sous-Bois;RER E;Station;Tournan;1;RER E
+Station;Tournan;RER E;Station;Vaires - Torcy;1;RER E
+Station;Vaires - Torcy;RER E;Station;Val de Fontenay;1;RER E
+Station;Val de Fontenay;RER E;Station;Villiers-sur-Marne - Le Plessis-Trévise;1;RER E
