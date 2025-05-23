@@ -20,7 +20,7 @@ for _, row in df_conn.iterrows():
     G.add_node(s2)
     G.add_edge(s1, s2, pollution=pollution, weight=1, ligne=ligne, distance=distance)
 
-# === 3. Générer un signal pollution (moyenne des arêtes connectées à chaque nœud) ===
+# === 3. Générer un signal pollution par station ===
 pollution_dict = {}
 for node in G.nodes():
     edges = G.edges(node, data=True)
@@ -34,19 +34,21 @@ L = nx.normalized_laplacian_matrix(G, nodelist=nodes).astype(float)
 eigvals, eigvecs = eigsh(L, k=5, which='SM')
 projection = eigvecs.T @ pollution_signal
 
-# === 5. Matplotlib : projection spectrale + export en PNG
-plt.figure(figsize=(9, 5))
-plt.plot(range(1, 6), projection, marker='o', linestyle='-', color='royalblue')
-plt.title("Analyse spectrale du signal de pollution\n(projection sur les 5 premières composantes)", fontsize=13)
-plt.xlabel("Composante spectrale (valeurs propres)", fontsize=11)
-plt.ylabel("Amplitude projetée", fontsize=11)
-plt.xticks(range(1, 6))
-plt.grid(True)
-plt.tight_layout()
-plt.savefig("H:/Documents/ING1/Projet_Mai_2025/graphique_projection_spectrale.png", dpi=300)
-plt.show()
+# === 5. Affichage matplotlib (bloquant jusqu'à fermeture)
+def afficher_graphe():
+    plt.figure(figsize=(9, 5))
+    plt.plot(range(1, 6), projection, marker='o', linestyle='-', color='royalblue')
+    plt.title("Analyse spectrale du signal de pollution\n(projection sur les 5 premières composantes)", fontsize=13)
+    plt.xlabel("Composante spectrale (valeurs propres)", fontsize=11)
+    plt.ylabel("Amplitude projetée", fontsize=11)
+    plt.xticks(range(1, 6))
+    plt.grid(True)
+    plt.tight_layout()
+    plt.savefig("H:/Documents/ING1/Projet_Mai_2025/graphique_projection_spectrale.png", dpi=300)
+    plt.show()
+    plt.close()
 
-# === 6. Top stations spectrales ===
+# === 6. Stations dominantes ===
 dominants = np.argsort(np.abs(eigvecs[:, 1]))[::-1][:10]
 print("\n🏭 Top 10 stations les plus influentes (composante spectrale 2) :")
 for i in dominants:
@@ -56,14 +58,9 @@ for i in dominants:
 # === 7. Charger les coordonnées GPS ===
 df_coords = pd.read_csv("H:/Documents/ING1/Projet_Mai_2025/fichier_entierement_filtré.csv", sep=';', encoding='utf-8')
 df_coords = df_coords.dropna(subset=['stop_lat', 'stop_lon'])
+coord_dict = {row['nom de la station']: (row['stop_lon'], row['stop_lat']) for _, row in df_coords.iterrows()}
 
-# ⚠️ Inverser lon/lat pour Plotly
-coord_dict = {
-    row['nom de la station']: (row['stop_lon'], row['stop_lat'])  # lon, lat
-    for _, row in df_coords.iterrows()
-}
-
-# === 8. Fusion coordonnées + pollution pour la carte ===
+# === 8. Fusion coordonnées + pollution ===
 stations = []
 for node in G.nodes():
     if node in coord_dict:
@@ -115,6 +112,7 @@ def update_map(seuil):
     )
     return fig
 
-# ✅ Utilisation correcte avec Dash >= 2.0
+# === 10. Lancer matplotlib PUIS Dash (sans relancer le script)
 if __name__ == '__main__':
-    app.run(debug=True)
+    afficher_graphe()  # attend fermeture utilisateur
+    app.run(debug=True, use_reloader=False)  # ✅ empêche redémarrage
