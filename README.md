@@ -1,8 +1,8 @@
 # Projet_Fin_ING1_Mai
 
-# 🌍 Analyse de la Pollution dans le Réseau de Transport Francilien
+#  Analyse de la Pollution dans le Réseau de Transport Francilien
 
-## 🚇 Description du Projet
+##  Description du Projet
 
 Ce projet a pour but d'analyser la qualité de l'air dans les stations du métro et du RER en Île-de-France.  
 Il repose sur la modélisation du réseau de transport sous forme de graphe afin de :
@@ -12,18 +12,18 @@ Il repose sur la modélisation du réseau de transport sous forme de graphe afin
 
 ---
 
-## 🔧 Fonctionnalités principales
+##  Fonctionnalités principales
 
 - Génération d’un **graphe du réseau de transport** à partir des fichiers CSV.
 - Nettoyage et traitement des données de pollution (`faible`, `modérée`, `élevée`).
 - Recherche du **meilleur chemin** (le moins pollué) entre deux stations selon une durée limite.
 - Visualisation :
-  - 📊 avec **matplotlib** pour l'analyse spectrale,
-  - 🗺️ avec **Dash + Plotly** pour une carte interactive.
+  -  avec **matplotlib** pour l'analyse spectrale,
+  -  avec **Dash + Plotly** pour une carte interactive.
 
 ---
 
-## 📁 Organisation
+##  Organisation
 
 | Fichier | Rôle |
 |--------|------|
@@ -36,9 +36,13 @@ Il repose sur la modélisation du réseau de transport sous forme de graphe afin
 
 ---
 
-## 🧪 Prérequis et dépendances
+##  Prérequis et dépendances
 
 Pour exécuter les scripts Python, assure-toi d’avoir Python **3.10+** installé, puis installe les bibliothèques suivantes :
 
 ```bash
 pip install pandas numpy networkx matplotlib geopy dash plotly scipy scikit-learn
+
+
+```bash
+cool
