@@ -43,9 +43,9 @@ Pour exécuter les scripts Python, assure-toi d’avoir Python **3.10+** install
 ```
 pip install pandas numpy networkx matplotlib geopy dash plotly scipy scikit-learn
 
+```
 
-``
-cool 
-
+```
+cool
 
 
