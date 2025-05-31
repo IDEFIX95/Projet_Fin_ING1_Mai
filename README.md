@@ -40,6 +40,12 @@ Il repose sur la modélisation du réseau de transport sous forme de graphe afin
 
 Pour exécuter les scripts Python, assure-toi d’avoir Python **3.10+** installé, puis installe les bibliothèques suivantes :
 
-```bashq
+```
 pip install pandas numpy networkx matplotlib geopy dash plotly scipy scikit-learn
+
+
+``
+cool 
+
+
 
